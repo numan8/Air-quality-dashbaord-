@@ -1,6 +1,8 @@
 from pathlib import Path
 import json,re,unicodedata,urllib.request
 import pandas as pd
+import streamlit.components.v1 as components
+from city_map import make_map, distance
 import streamlit as st
 import plotly.graph_objects as go
 import plotly.express as px
@@ -63,11 +65,10 @@ else:
  s=S[S.city.eq(city)].copy(); f=F[F.city.eq(city)]; h=D[D.city.eq(city)&D.date.le(pd.Timestamp(day))]; a=A[A.city.eq(city)&A.date.eq(pd.Timestamp(day))].iloc[0]
  st.subheader(f'{city} • local environmental intelligence')
  for col,(label,value) in zip(st.columns(4),[('Mean AQI',f'{s.aqi.mean():.0f}'),('PM2.5',f'{s.pm25.mean():.1f} µg/m³'),('Demo monitoring sites',len(s)),('Demo facilities',len(f))]):col.metric(label,value)
- points(s); layers=st.multiselect('Facility overlays',['Brick kiln','Factory'])
- for layer in layers:
-  x=f[f.sector.eq(layer)];fig.add_trace(go.Scattermap(lat=x.latitude,lon=x.longitude,mode='markers',marker=dict(size=11,color='#a16207' if layer=='Brick kiln' else '#2563eb'),text=x.facility_name,customdata=x.compliance,hovertemplate='%{text}<br>%{customdata}<extra></extra>',name=layer))
- fig.update_layout(map=dict(style='carto-positron',center=dict(lat=s.latitude.mean(),lon=s.longitude.mean()),zoom=10.5),height=560);plot(fig)
- st.caption('Named areas are illustrative; marker coordinates are not verified monitoring or facility positions.')
+ st.markdown('🏭 Factories · 🔥 Brick kilns · Coloured numbers: selected air indicator (colour by AQI)')
+ st.caption('Click any marker for details. Use the map layer control to hide or show facilities.')
+ components.html(make_map(s,f,metric,MET).get_root().render(),height=650)
+ st.caption('All coordinates and facilities are synthetic. Nearby station readings are not measurements at individual facilities.')
  st.subheader('Local monitoring locations');table(s[['location_name','site_type']+list(MET)].rename(columns=MET).sort_values('AQI',ascending=False))
  t1,t2,t3=st.tabs(['Pollution factors','Factories & brick kilns','Historical trends'])
  with t1:
