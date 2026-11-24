@@ -66,7 +66,7 @@ else:
  st.subheader(f'{city} • local environmental intelligence')
  for col,(label,value) in zip(st.columns(4),[('Mean AQI',f'{s.aqi.mean():.0f}'),('PM2.5',f'{s.pm25.mean():.1f} µg/m³'),('Demo monitoring sites',len(s)),('Demo facilities',len(f))]):col.metric(label,value)
  st.markdown('🏭 Factories · 🔥 Brick kilns · Coloured numbers: selected air indicator (colour by AQI)')
- st.caption('Click any marker for details. Use the map layer control to hide or show facilities.')
+ st.caption('Click an AQI marker for its 24-hour simulated AQI chart and pollutant details. Use the map layer control to hide or show facilities.')
  components.html(make_map(s,f,metric,MET).get_root().render(),height=650)
  st.caption('All coordinates and facilities are synthetic. Nearby station readings are not measurements at individual facilities.')
  st.subheader('Local monitoring locations');table(s[['location_name','site_type']+list(MET)].rename(columns=MET).sort_values('AQI',ascending=False))
