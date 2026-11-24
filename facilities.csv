@@ -1,0 +1,657 @@
+facility_id,city,facility_name,sector,latitude,longitude,technology_or_industry,compliance,fine_pkr,snapshot_date,source
+P34-1-F01,Attock,Demo Brick kiln 01,Brick kiln,33.7761,72.36079,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P34-1-F02,Attock,Demo Brick kiln 02,Brick kiln,33.71492,72.40909,Traditional,Violation,110446,2026-11-23,Synthetic
+P34-1-F03,Attock,Demo Brick kiln 03,Brick kiln,33.71798,72.36182,Traditional,Compliant,0,2026-11-23,Synthetic
+P34-1-F04,Attock,Demo Brick kiln 04,Brick kiln,33.78986,72.37924,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P34-1-F05,Attock,Demo Brick kiln 05,Brick kiln,33.7269,72.3712,Zigzag,Compliant,0,2026-11-23,Synthetic
+P34-1-F06,Attock,Demo Brick kiln 06,Brick kiln,33.78093,72.37814,Traditional,Violation,59633,2026-11-23,Synthetic
+P34-1-F07,Attock,Demo Brick kiln 07,Brick kiln,33.79381,72.40167,Traditional,Violation,37249,2026-11-23,Synthetic
+P34-1-F08,Attock,Demo Brick kiln 08,Brick kiln,33.74845,72.32523,Traditional,Compliant,0,2026-11-23,Synthetic
+P34-1-F09,Attock,Demo Factory 09,Factory,33.77348,72.40836,Food processing,Compliant,0,2026-11-23,Synthetic
+P34-1-F10,Attock,Demo Factory 10,Factory,33.73979,72.36355,Metal,Compliant,0,2026-11-23,Synthetic
+P34-1-F11,Attock,Demo Factory 11,Factory,33.74926,72.34171,Textile,Violation,141642,2026-11-23,Synthetic
+P34-1-F12,Attock,Demo Factory 12,Factory,33.78139,72.38431,Metal,Compliant,0,2026-11-23,Synthetic
+P34-1-F13,Attock,Demo Factory 13,Factory,33.78135,72.39372,Food processing,Compliant,0,2026-11-23,Synthetic
+P34-1-F14,Attock,Demo Factory 14,Factory,33.76787,72.33387,Textile,Compliant,0,2026-11-23,Synthetic
+P34-1-F15,Attock,Demo Factory 15,Factory,33.70711,72.39211,Metal,Violation,108723,2026-11-23,Synthetic
+P34-1-F16,Attock,Demo Factory 16,Factory,33.77671,72.36259,Textile,Violation,29571,2026-11-23,Synthetic
+P35-1-F01,Bahawalnagar,Demo Brick kiln 01,Brick kiln,29.95546,73.24895,Traditional,Compliant,0,2026-11-23,Synthetic
+P35-1-F02,Bahawalnagar,Demo Brick kiln 02,Brick kiln,30.014,73.24591,Traditional,Violation,22679,2026-11-23,Synthetic
+P35-1-F03,Bahawalnagar,Demo Brick kiln 03,Brick kiln,29.97251,73.19156,Traditional,Compliant,0,2026-11-23,Synthetic
+P35-1-F04,Bahawalnagar,Demo Brick kiln 04,Brick kiln,29.96447,73.22556,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P35-1-F05,Bahawalnagar,Demo Brick kiln 05,Brick kiln,29.9504,73.21411,Zigzag,Compliant,0,2026-11-23,Synthetic
+P35-1-F06,Bahawalnagar,Demo Brick kiln 06,Brick kiln,30.00472,73.23892,Traditional,Violation,103003,2026-11-23,Synthetic
+P35-1-F07,Bahawalnagar,Demo Brick kiln 07,Brick kiln,29.98173,73.26205,Zigzag,Compliant,0,2026-11-23,Synthetic
+P35-1-F08,Bahawalnagar,Demo Brick kiln 08,Brick kiln,29.95326,73.2538,Zigzag,Compliant,0,2026-11-23,Synthetic
+P35-1-F09,Bahawalnagar,Demo Factory 09,Factory,29.95967,73.23388,Metal,Compliant,0,2026-11-23,Synthetic
+P35-1-F10,Bahawalnagar,Demo Factory 10,Factory,29.98531,73.22308,Food processing,Compliant,0,2026-11-23,Synthetic
+P35-1-F11,Bahawalnagar,Demo Factory 11,Factory,30.00188,73.22135,Metal,Compliant,0,2026-11-23,Synthetic
+P35-1-F12,Bahawalnagar,Demo Factory 12,Factory,30.03172,73.27056,Textile,Violation,74038,2026-11-23,Synthetic
+P35-1-F13,Bahawalnagar,Demo Factory 13,Factory,30.03238,73.25888,Textile,Violation,120460,2026-11-23,Synthetic
+P35-1-F14,Bahawalnagar,Demo Factory 14,Factory,29.96965,73.19747,Metal,Pending inspection,0,2026-11-23,Synthetic
+P35-1-F15,Bahawalnagar,Demo Factory 15,Factory,29.98617,73.207,Food processing,Compliant,0,2026-11-23,Synthetic
+P35-1-F16,Bahawalnagar,Demo Factory 16,Factory,29.96106,73.26589,Metal,Violation,78986,2026-11-23,Synthetic
+P07-1-F01,Bahawalpur,Demo Brick kiln 01,Brick kiln,29.38941,71.70259,Traditional,Violation,23257,2026-11-23,Synthetic
+P07-1-F02,Bahawalpur,Demo Brick kiln 02,Brick kiln,29.35812,71.68356,Traditional,Compliant,0,2026-11-23,Synthetic
+P07-1-F03,Bahawalpur,Demo Brick kiln 03,Brick kiln,29.39498,71.67582,Traditional,Compliant,0,2026-11-23,Synthetic
+P07-1-F04,Bahawalpur,Demo Brick kiln 04,Brick kiln,29.40341,71.66149,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P07-1-F05,Bahawalpur,Demo Brick kiln 05,Brick kiln,29.40282,71.67735,Zigzag,Violation,13192,2026-11-23,Synthetic
+P07-1-F06,Bahawalpur,Demo Brick kiln 06,Brick kiln,29.43679,71.68954,Zigzag,Violation,21582,2026-11-23,Synthetic
+P07-1-F07,Bahawalpur,Demo Brick kiln 07,Brick kiln,29.39432,71.6903,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P07-1-F08,Bahawalpur,Demo Brick kiln 08,Brick kiln,29.39314,71.67016,Traditional,Compliant,0,2026-11-23,Synthetic
+P07-1-F09,Bahawalpur,Demo Factory 09,Factory,29.39738,71.68563,Metal,Compliant,0,2026-11-23,Synthetic
+P07-1-F10,Bahawalpur,Demo Factory 10,Factory,29.43118,71.65875,Food processing,Violation,54196,2026-11-23,Synthetic
+P07-1-F11,Bahawalpur,Demo Factory 11,Factory,29.41102,71.67144,Textile,Violation,112241,2026-11-23,Synthetic
+P07-1-F12,Bahawalpur,Demo Factory 12,Factory,29.4197,71.65583,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P07-1-F13,Bahawalpur,Demo Factory 13,Factory,29.37124,71.6495,Metal,Violation,61929,2026-11-23,Synthetic
+P07-1-F14,Bahawalpur,Demo Factory 14,Factory,29.4252,71.71888,Textile,Compliant,0,2026-11-23,Synthetic
+P07-1-F15,Bahawalpur,Demo Factory 15,Factory,29.37671,71.69249,Food processing,Compliant,0,2026-11-23,Synthetic
+P07-1-F16,Bahawalpur,Demo Factory 16,Factory,29.43477,71.66095,Textile,Compliant,0,2026-11-23,Synthetic
+P29-1-F01,Bhakkar,Demo Brick kiln 01,Brick kiln,31.66948,71.08668,Zigzag,Violation,128389,2026-11-23,Synthetic
+P29-1-F02,Bhakkar,Demo Brick kiln 02,Brick kiln,31.66057,71.05313,Traditional,Compliant,0,2026-11-23,Synthetic
+P29-1-F03,Bhakkar,Demo Brick kiln 03,Brick kiln,31.64964,71.06598,Traditional,Compliant,0,2026-11-23,Synthetic
+P29-1-F04,Bhakkar,Demo Brick kiln 04,Brick kiln,31.64737,71.03005,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P29-1-F05,Bhakkar,Demo Brick kiln 05,Brick kiln,31.60185,71.01748,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P29-1-F06,Bhakkar,Demo Brick kiln 06,Brick kiln,31.5963,71.06037,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P29-1-F07,Bhakkar,Demo Brick kiln 07,Brick kiln,31.59784,71.03436,Zigzag,Violation,146055,2026-11-23,Synthetic
+P29-1-F08,Bhakkar,Demo Brick kiln 08,Brick kiln,31.62523,71.01938,Zigzag,Compliant,0,2026-11-23,Synthetic
+P29-1-F09,Bhakkar,Demo Factory 09,Factory,31.59203,71.06742,Textile,Compliant,0,2026-11-23,Synthetic
+P29-1-F10,Bhakkar,Demo Factory 10,Factory,31.62573,71.06891,Metal,Violation,37968,2026-11-23,Synthetic
+P29-1-F11,Bhakkar,Demo Factory 11,Factory,31.65253,71.07082,Food processing,Violation,28348,2026-11-23,Synthetic
+P29-1-F12,Bhakkar,Demo Factory 12,Factory,31.5913,71.08991,Food processing,Compliant,0,2026-11-23,Synthetic
+P29-1-F13,Bhakkar,Demo Factory 13,Factory,31.62414,71.06609,Textile,Pending inspection,0,2026-11-23,Synthetic
+P29-1-F14,Bhakkar,Demo Factory 14,Factory,31.60594,71.08966,Metal,Compliant,0,2026-11-23,Synthetic
+P29-1-F15,Bhakkar,Demo Factory 15,Factory,31.63722,71.01596,Metal,Compliant,0,2026-11-23,Synthetic
+P29-1-F16,Bhakkar,Demo Factory 16,Factory,31.61788,71.09339,Textile,Violation,140623,2026-11-23,Synthetic
+P32-1-F01,Chakwal,Demo Brick kiln 01,Brick kiln,32.96126,72.86062,Traditional,Violation,12497,2026-11-23,Synthetic
+P32-1-F02,Chakwal,Demo Brick kiln 02,Brick kiln,32.8987,72.89321,Zigzag,Violation,42569,2026-11-23,Synthetic
+P32-1-F03,Chakwal,Demo Brick kiln 03,Brick kiln,32.93664,72.8731,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P32-1-F04,Chakwal,Demo Brick kiln 04,Brick kiln,32.926,72.85224,Traditional,Compliant,0,2026-11-23,Synthetic
+P32-1-F05,Chakwal,Demo Brick kiln 05,Brick kiln,32.94755,72.89663,Traditional,Compliant,0,2026-11-23,Synthetic
+P32-1-F06,Chakwal,Demo Brick kiln 06,Brick kiln,32.91017,72.8857,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P32-1-F07,Chakwal,Demo Brick kiln 07,Brick kiln,32.89835,72.82455,Zigzag,Violation,30464,2026-11-23,Synthetic
+P32-1-F08,Chakwal,Demo Brick kiln 08,Brick kiln,32.96309,72.84649,Traditional,Compliant,0,2026-11-23,Synthetic
+P32-1-F09,Chakwal,Demo Factory 09,Factory,32.90377,72.84418,Food processing,Compliant,0,2026-11-23,Synthetic
+P32-1-F10,Chakwal,Demo Factory 10,Factory,32.89927,72.82046,Textile,Compliant,0,2026-11-23,Synthetic
+P32-1-F11,Chakwal,Demo Factory 11,Factory,32.89368,72.87176,Textile,Violation,122434,2026-11-23,Synthetic
+P32-1-F12,Chakwal,Demo Factory 12,Factory,32.91749,72.86397,Metal,Pending inspection,0,2026-11-23,Synthetic
+P32-1-F13,Chakwal,Demo Factory 13,Factory,32.96547,72.82247,Food processing,Compliant,0,2026-11-23,Synthetic
+P32-1-F14,Chakwal,Demo Factory 14,Factory,32.91132,72.86997,Textile,Compliant,0,2026-11-23,Synthetic
+P32-1-F15,Chakwal,Demo Factory 15,Factory,32.89331,72.85219,Food processing,Violation,24234,2026-11-23,Synthetic
+P32-1-F16,Chakwal,Demo Factory 16,Factory,32.96388,72.82324,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P14-1-F01,Chiniot,Demo Brick kiln 01,Brick kiln,31.7659,73.03937,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P14-1-F02,Chiniot,Demo Brick kiln 02,Brick kiln,31.76216,73.02829,Traditional,Violation,119059,2026-11-23,Synthetic
+P14-1-F03,Chiniot,Demo Brick kiln 03,Brick kiln,31.70209,73.00638,Traditional,Violation,130060,2026-11-23,Synthetic
+P14-1-F04,Chiniot,Demo Brick kiln 04,Brick kiln,31.73163,72.99279,Zigzag,Violation,47304,2026-11-23,Synthetic
+P14-1-F05,Chiniot,Demo Brick kiln 05,Brick kiln,31.70256,73.00114,Traditional,Compliant,0,2026-11-23,Synthetic
+P14-1-F06,Chiniot,Demo Brick kiln 06,Brick kiln,31.72305,72.99111,Zigzag,Compliant,0,2026-11-23,Synthetic
+P14-1-F07,Chiniot,Demo Brick kiln 07,Brick kiln,31.72413,73.01985,Traditional,Compliant,0,2026-11-23,Synthetic
+P14-1-F08,Chiniot,Demo Brick kiln 08,Brick kiln,31.77245,73.00141,Traditional,Compliant,0,2026-11-23,Synthetic
+P14-1-F09,Chiniot,Demo Factory 09,Factory,31.73817,73.0345,Textile,Violation,122614,2026-11-23,Synthetic
+P14-1-F10,Chiniot,Demo Factory 10,Factory,31.73792,73.0151,Textile,Compliant,0,2026-11-23,Synthetic
+P14-1-F11,Chiniot,Demo Factory 11,Factory,31.70819,73.02066,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P14-1-F12,Chiniot,Demo Factory 12,Factory,31.70187,73.01343,Metal,Compliant,0,2026-11-23,Synthetic
+P14-1-F13,Chiniot,Demo Factory 13,Factory,31.69758,73.04237,Food processing,Compliant,0,2026-11-23,Synthetic
+P14-1-F14,Chiniot,Demo Factory 14,Factory,31.77628,73.03021,Metal,Violation,119567,2026-11-23,Synthetic
+P14-1-F15,Chiniot,Demo Factory 15,Factory,31.76154,73.04327,Food processing,Compliant,0,2026-11-23,Synthetic
+P14-1-F16,Chiniot,Demo Factory 16,Factory,31.69853,73.01359,Metal,Compliant,0,2026-11-23,Synthetic
+P26-1-F01,Dera Ghazi Khan,Demo Brick kiln 01,Brick kiln,30.04426,70.64664,Traditional,Compliant,0,2026-11-23,Synthetic
+P26-1-F02,Dera Ghazi Khan,Demo Brick kiln 02,Brick kiln,30.06217,70.66706,Traditional,Compliant,0,2026-11-23,Synthetic
+P26-1-F03,Dera Ghazi Khan,Demo Brick kiln 03,Brick kiln,30.04738,70.67894,Traditional,Compliant,0,2026-11-23,Synthetic
+P26-1-F04,Dera Ghazi Khan,Demo Brick kiln 04,Brick kiln,30.00131,70.65433,Zigzag,Compliant,0,2026-11-23,Synthetic
+P26-1-F05,Dera Ghazi Khan,Demo Brick kiln 05,Brick kiln,30.06311,70.65554,Traditional,Compliant,0,2026-11-23,Synthetic
+P26-1-F06,Dera Ghazi Khan,Demo Brick kiln 06,Brick kiln,30.06205,70.61947,Traditional,Compliant,0,2026-11-23,Synthetic
+P26-1-F07,Dera Ghazi Khan,Demo Brick kiln 07,Brick kiln,30.02172,70.60931,Zigzag,Compliant,0,2026-11-23,Synthetic
+P26-1-F08,Dera Ghazi Khan,Demo Brick kiln 08,Brick kiln,30.03283,70.62962,Traditional,Violation,34639,2026-11-23,Synthetic
+P26-1-F09,Dera Ghazi Khan,Demo Factory 09,Factory,30.07767,70.66535,Metal,Compliant,0,2026-11-23,Synthetic
+P26-1-F10,Dera Ghazi Khan,Demo Factory 10,Factory,30.02729,70.68392,Food processing,Violation,143167,2026-11-23,Synthetic
+P26-1-F11,Dera Ghazi Khan,Demo Factory 11,Factory,30.00408,70.67167,Textile,Violation,27069,2026-11-23,Synthetic
+P26-1-F12,Dera Ghazi Khan,Demo Factory 12,Factory,30.04636,70.65687,Textile,Compliant,0,2026-11-23,Synthetic
+P26-1-F13,Dera Ghazi Khan,Demo Factory 13,Factory,30.0677,70.62171,Metal,Compliant,0,2026-11-23,Synthetic
+P26-1-F14,Dera Ghazi Khan,Demo Factory 14,Factory,30.03323,70.6223,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P26-1-F15,Dera Ghazi Khan,Demo Factory 15,Factory,30.00337,70.68486,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P26-1-F16,Dera Ghazi Khan,Demo Factory 16,Factory,30.01897,70.67045,Metal,Compliant,0,2026-11-23,Synthetic
+P02-1-F01,Faisalabad,Demo Brick kiln 01,Brick kiln,31.4348,73.08099,Traditional,Compliant,0,2026-11-23,Synthetic
+P02-1-F02,Faisalabad,Demo Brick kiln 02,Brick kiln,31.45563,73.02508,Zigzag,Compliant,0,2026-11-23,Synthetic
+P02-1-F03,Faisalabad,Demo Brick kiln 03,Brick kiln,31.4448,73.04031,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P02-1-F04,Faisalabad,Demo Brick kiln 04,Brick kiln,31.43396,73.02573,Zigzag,Compliant,0,2026-11-23,Synthetic
+P02-1-F05,Faisalabad,Demo Brick kiln 05,Brick kiln,31.42943,73.09461,Zigzag,Compliant,0,2026-11-23,Synthetic
+P02-1-F06,Faisalabad,Demo Brick kiln 06,Brick kiln,31.45134,73.02763,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P02-1-F07,Faisalabad,Demo Brick kiln 07,Brick kiln,31.44438,73.08531,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P02-1-F08,Faisalabad,Demo Brick kiln 08,Brick kiln,31.37851,73.04064,Traditional,Compliant,0,2026-11-23,Synthetic
+P02-1-F09,Faisalabad,Demo Factory 09,Factory,31.44196,73.07918,Metal,Pending inspection,0,2026-11-23,Synthetic
+P02-1-F10,Faisalabad,Demo Factory 10,Factory,31.38886,73.08859,Textile,Compliant,0,2026-11-23,Synthetic
+P02-1-F11,Faisalabad,Demo Factory 11,Factory,31.43878,73.11069,Textile,Violation,81303,2026-11-23,Synthetic
+P02-1-F12,Faisalabad,Demo Factory 12,Factory,31.43036,73.02629,Textile,Pending inspection,0,2026-11-23,Synthetic
+P02-1-F13,Faisalabad,Demo Factory 13,Factory,31.43875,73.03806,Food processing,Compliant,0,2026-11-23,Synthetic
+P02-1-F14,Faisalabad,Demo Factory 14,Factory,31.46309,73.06375,Textile,Violation,45627,2026-11-23,Synthetic
+P02-1-F15,Faisalabad,Demo Factory 15,Factory,31.42641,73.03554,Metal,Pending inspection,0,2026-11-23,Synthetic
+P02-1-F16,Faisalabad,Demo Factory 16,Factory,31.40201,73.0745,Textile,Violation,100892,2026-11-23,Synthetic
+P04-1-F01,Gujranwala,Demo Brick kiln 01,Brick kiln,32.20254,74.17229,Traditional,Violation,66564,2026-11-23,Synthetic
+P04-1-F02,Gujranwala,Demo Brick kiln 02,Brick kiln,32.16056,74.16966,Traditional,Compliant,0,2026-11-23,Synthetic
+P04-1-F03,Gujranwala,Demo Brick kiln 03,Brick kiln,32.14531,74.19744,Zigzag,Violation,66109,2026-11-23,Synthetic
+P04-1-F04,Gujranwala,Demo Brick kiln 04,Brick kiln,32.15495,74.19572,Traditional,Compliant,0,2026-11-23,Synthetic
+P04-1-F05,Gujranwala,Demo Brick kiln 05,Brick kiln,32.17084,74.18747,Zigzag,Compliant,0,2026-11-23,Synthetic
+P04-1-F06,Gujranwala,Demo Brick kiln 06,Brick kiln,32.16056,74.17924,Zigzag,Violation,59121,2026-11-23,Synthetic
+P04-1-F07,Gujranwala,Demo Brick kiln 07,Brick kiln,32.18107,74.21725,Traditional,Violation,96330,2026-11-23,Synthetic
+P04-1-F08,Gujranwala,Demo Brick kiln 08,Brick kiln,32.18876,74.20836,Zigzag,Compliant,0,2026-11-23,Synthetic
+P04-1-F09,Gujranwala,Demo Factory 09,Factory,32.17423,74.19139,Food processing,Violation,113138,2026-11-23,Synthetic
+P04-1-F10,Gujranwala,Demo Factory 10,Factory,32.19766,74.24183,Food processing,Violation,82838,2026-11-23,Synthetic
+P04-1-F11,Gujranwala,Demo Factory 11,Factory,32.18988,74.18723,Metal,Pending inspection,0,2026-11-23,Synthetic
+P04-1-F12,Gujranwala,Demo Factory 12,Factory,32.12831,74.16542,Metal,Pending inspection,0,2026-11-23,Synthetic
+P04-1-F13,Gujranwala,Demo Factory 13,Factory,32.12289,74.18419,Metal,Compliant,0,2026-11-23,Synthetic
+P04-1-F14,Gujranwala,Demo Factory 14,Factory,32.14614,74.22577,Textile,Compliant,0,2026-11-23,Synthetic
+P04-1-F15,Gujranwala,Demo Factory 15,Factory,32.19233,74.23602,Food processing,Compliant,0,2026-11-23,Synthetic
+P04-1-F16,Gujranwala,Demo Factory 16,Factory,32.17196,74.1697,Textile,Compliant,0,2026-11-23,Synthetic
+P17-1-F01,Gujrat,Demo Brick kiln 01,Brick kiln,32.60651,74.12956,Zigzag,Violation,53534,2026-11-23,Synthetic
+P17-1-F02,Gujrat,Demo Brick kiln 02,Brick kiln,32.58214,74.10346,Traditional,Compliant,0,2026-11-23,Synthetic
+P17-1-F03,Gujrat,Demo Brick kiln 03,Brick kiln,32.52122,74.05879,Traditional,Violation,75341,2026-11-23,Synthetic
+P17-1-F04,Gujrat,Demo Brick kiln 04,Brick kiln,32.53519,74.11524,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P17-1-F05,Gujrat,Demo Brick kiln 05,Brick kiln,32.57029,74.11549,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P17-1-F06,Gujrat,Demo Brick kiln 06,Brick kiln,32.5606,74.0753,Zigzag,Compliant,0,2026-11-23,Synthetic
+P17-1-F07,Gujrat,Demo Brick kiln 07,Brick kiln,32.58823,74.07901,Traditional,Compliant,0,2026-11-23,Synthetic
+P17-1-F08,Gujrat,Demo Brick kiln 08,Brick kiln,32.53654,74.12161,Zigzag,Compliant,0,2026-11-23,Synthetic
+P17-1-F09,Gujrat,Demo Factory 09,Factory,32.54121,74.06626,Food processing,Compliant,0,2026-11-23,Synthetic
+P17-1-F10,Gujrat,Demo Factory 10,Factory,32.56465,74.04754,Metal,Compliant,0,2026-11-23,Synthetic
+P17-1-F11,Gujrat,Demo Factory 11,Factory,32.59618,74.09735,Metal,Violation,103828,2026-11-23,Synthetic
+P17-1-F12,Gujrat,Demo Factory 12,Factory,32.58892,74.0452,Food processing,Compliant,0,2026-11-23,Synthetic
+P17-1-F13,Gujrat,Demo Factory 13,Factory,32.55072,74.11597,Metal,Compliant,0,2026-11-23,Synthetic
+P17-1-F14,Gujrat,Demo Factory 14,Factory,32.58943,74.11665,Metal,Violation,137337,2026-11-23,Synthetic
+P17-1-F15,Gujrat,Demo Factory 15,Factory,32.5731,74.11649,Metal,Compliant,0,2026-11-23,Synthetic
+P17-1-F16,Gujrat,Demo Factory 16,Factory,32.56808,74.04942,Metal,Compliant,0,2026-11-23,Synthetic
+P16-1-F01,Hafizabad,Demo Brick kiln 01,Brick kiln,32.1205,73.70757,Zigzag,Compliant,0,2026-11-23,Synthetic
+P16-1-F02,Hafizabad,Demo Brick kiln 02,Brick kiln,32.05519,73.65303,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P16-1-F03,Hafizabad,Demo Brick kiln 03,Brick kiln,32.07828,73.67847,Traditional,Violation,11024,2026-11-23,Synthetic
+P16-1-F04,Hafizabad,Demo Brick kiln 04,Brick kiln,32.06296,73.71407,Traditional,Violation,147452,2026-11-23,Synthetic
+P16-1-F05,Hafizabad,Demo Brick kiln 05,Brick kiln,32.09377,73.69377,Traditional,Violation,136465,2026-11-23,Synthetic
+P16-1-F06,Hafizabad,Demo Brick kiln 06,Brick kiln,32.10281,73.73748,Zigzag,Violation,131352,2026-11-23,Synthetic
+P16-1-F07,Hafizabad,Demo Brick kiln 07,Brick kiln,32.04821,73.71671,Traditional,Compliant,0,2026-11-23,Synthetic
+P16-1-F08,Hafizabad,Demo Brick kiln 08,Brick kiln,32.09681,73.73808,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P16-1-F09,Hafizabad,Demo Factory 09,Factory,32.06388,73.71683,Metal,Violation,58509,2026-11-23,Synthetic
+P16-1-F10,Hafizabad,Demo Factory 10,Factory,32.04909,73.65448,Food processing,Violation,78557,2026-11-23,Synthetic
+P16-1-F11,Hafizabad,Demo Factory 11,Factory,32.12664,73.69264,Textile,Pending inspection,0,2026-11-23,Synthetic
+P16-1-F12,Hafizabad,Demo Factory 12,Factory,32.10937,73.65843,Metal,Violation,85657,2026-11-23,Synthetic
+P16-1-F13,Hafizabad,Demo Factory 13,Factory,32.12117,73.72483,Food processing,Compliant,0,2026-11-23,Synthetic
+P16-1-F14,Hafizabad,Demo Factory 14,Factory,32.07149,73.65518,Food processing,Compliant,0,2026-11-23,Synthetic
+P16-1-F15,Hafizabad,Demo Factory 15,Factory,32.10214,73.72043,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P16-1-F16,Hafizabad,Demo Factory 16,Factory,32.10449,73.72287,Food processing,Compliant,0,2026-11-23,Synthetic
+P13-1-F01,Jhang,Demo Brick kiln 01,Brick kiln,31.28268,72.35188,Zigzag,Compliant,0,2026-11-23,Synthetic
+P13-1-F02,Jhang,Demo Brick kiln 02,Brick kiln,31.27302,72.3356,Traditional,Compliant,0,2026-11-23,Synthetic
+P13-1-F03,Jhang,Demo Brick kiln 03,Brick kiln,31.30731,72.33509,Zigzag,Compliant,0,2026-11-23,Synthetic
+P13-1-F04,Jhang,Demo Brick kiln 04,Brick kiln,31.30346,72.30597,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P13-1-F05,Jhang,Demo Brick kiln 05,Brick kiln,31.27983,72.31037,Zigzag,Compliant,0,2026-11-23,Synthetic
+P13-1-F06,Jhang,Demo Brick kiln 06,Brick kiln,31.3065,72.29153,Traditional,Compliant,0,2026-11-23,Synthetic
+P13-1-F07,Jhang,Demo Brick kiln 07,Brick kiln,31.29129,72.34732,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P13-1-F08,Jhang,Demo Brick kiln 08,Brick kiln,31.25338,72.31136,Zigzag,Compliant,0,2026-11-23,Synthetic
+P13-1-F09,Jhang,Demo Factory 09,Factory,31.31649,72.33773,Metal,Violation,18440,2026-11-23,Synthetic
+P13-1-F10,Jhang,Demo Factory 10,Factory,31.30908,72.31937,Metal,Compliant,0,2026-11-23,Synthetic
+P13-1-F11,Jhang,Demo Factory 11,Factory,31.25959,72.28069,Metal,Compliant,0,2026-11-23,Synthetic
+P13-1-F12,Jhang,Demo Factory 12,Factory,31.2675,72.33176,Textile,Compliant,0,2026-11-23,Synthetic
+P13-1-F13,Jhang,Demo Factory 13,Factory,31.26454,72.36098,Metal,Violation,85719,2026-11-23,Synthetic
+P13-1-F14,Jhang,Demo Factory 14,Factory,31.25231,72.35538,Metal,Compliant,0,2026-11-23,Synthetic
+P13-1-F15,Jhang,Demo Factory 15,Factory,31.30852,72.32231,Textile,Violation,40187,2026-11-23,Synthetic
+P13-1-F16,Jhang,Demo Factory 16,Factory,31.28551,72.30159,Metal,Compliant,0,2026-11-23,Synthetic
+P33-1-F01,Jhelum,Demo Brick kiln 01,Brick kiln,32.9241,73.69771,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P33-1-F02,Jhelum,Demo Brick kiln 02,Brick kiln,32.94561,73.755,Zigzag,Violation,98887,2026-11-23,Synthetic
+P33-1-F03,Jhelum,Demo Brick kiln 03,Brick kiln,32.93794,73.77325,Zigzag,Violation,45792,2026-11-23,Synthetic
+P33-1-F04,Jhelum,Demo Brick kiln 04,Brick kiln,32.9763,73.75461,Traditional,Compliant,0,2026-11-23,Synthetic
+P33-1-F05,Jhelum,Demo Brick kiln 05,Brick kiln,32.94567,73.69289,Zigzag,Violation,143748,2026-11-23,Synthetic
+P33-1-F06,Jhelum,Demo Brick kiln 06,Brick kiln,32.94122,73.72269,Traditional,Compliant,0,2026-11-23,Synthetic
+P33-1-F07,Jhelum,Demo Brick kiln 07,Brick kiln,32.90435,73.68742,Traditional,Compliant,0,2026-11-23,Synthetic
+P33-1-F08,Jhelum,Demo Brick kiln 08,Brick kiln,32.90097,73.72468,Traditional,Violation,53759,2026-11-23,Synthetic
+P33-1-F09,Jhelum,Demo Factory 09,Factory,32.89966,73.69377,Food processing,Compliant,0,2026-11-23,Synthetic
+P33-1-F10,Jhelum,Demo Factory 10,Factory,32.95791,73.70235,Textile,Compliant,0,2026-11-23,Synthetic
+P33-1-F11,Jhelum,Demo Factory 11,Factory,32.93055,73.72122,Textile,Compliant,0,2026-11-23,Synthetic
+P33-1-F12,Jhelum,Demo Factory 12,Factory,32.97272,73.68383,Textile,Violation,48477,2026-11-23,Synthetic
+P33-1-F13,Jhelum,Demo Factory 13,Factory,32.92505,73.72254,Metal,Violation,75412,2026-11-23,Synthetic
+P33-1-F14,Jhelum,Demo Factory 14,Factory,32.91851,73.71275,Food processing,Compliant,0,2026-11-23,Synthetic
+P33-1-F15,Jhelum,Demo Factory 15,Factory,32.93826,73.74522,Food processing,Compliant,0,2026-11-23,Synthetic
+P33-1-F16,Jhelum,Demo Factory 16,Factory,32.97881,73.68809,Textile,Compliant,0,2026-11-23,Synthetic
+P10-1-F01,Kasur,Demo Brick kiln 01,Brick kiln,31.15102,74.4062,Zigzag,Compliant,0,2026-11-23,Synthetic
+P10-1-F02,Kasur,Demo Brick kiln 02,Brick kiln,31.16967,74.3935,Zigzag,Compliant,0,2026-11-23,Synthetic
+P10-1-F03,Kasur,Demo Brick kiln 03,Brick kiln,31.08979,74.40262,Zigzag,Violation,43829,2026-11-23,Synthetic
+P10-1-F04,Kasur,Demo Brick kiln 04,Brick kiln,31.1382,74.44578,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P10-1-F05,Kasur,Demo Brick kiln 05,Brick kiln,31.16378,74.44838,Zigzag,Compliant,0,2026-11-23,Synthetic
+P10-1-F06,Kasur,Demo Brick kiln 06,Brick kiln,31.15654,74.46966,Zigzag,Compliant,0,2026-11-23,Synthetic
+P10-1-F07,Kasur,Demo Brick kiln 07,Brick kiln,31.12788,74.44697,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P10-1-F08,Kasur,Demo Brick kiln 08,Brick kiln,31.11951,74.46585,Traditional,Compliant,0,2026-11-23,Synthetic
+P10-1-F09,Kasur,Demo Factory 09,Factory,31.14104,74.41213,Food processing,Compliant,0,2026-11-23,Synthetic
+P10-1-F10,Kasur,Demo Factory 10,Factory,31.11556,74.39969,Food processing,Compliant,0,2026-11-23,Synthetic
+P10-1-F11,Kasur,Demo Factory 11,Factory,31.08869,74.40756,Metal,Violation,128333,2026-11-23,Synthetic
+P10-1-F12,Kasur,Demo Factory 12,Factory,31.15345,74.42121,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P10-1-F13,Kasur,Demo Factory 13,Factory,31.14042,74.404,Food processing,Compliant,0,2026-11-23,Synthetic
+P10-1-F14,Kasur,Demo Factory 14,Factory,31.10254,74.43832,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P10-1-F15,Kasur,Demo Factory 15,Factory,31.08734,74.39415,Metal,Pending inspection,0,2026-11-23,Synthetic
+P10-1-F16,Kasur,Demo Factory 16,Factory,31.0984,74.47342,Metal,Pending inspection,0,2026-11-23,Synthetic
+P24-1-F01,Khanewal,Demo Brick kiln 01,Brick kiln,30.32016,71.92291,Traditional,Compliant,0,2026-11-23,Synthetic
+P24-1-F02,Khanewal,Demo Brick kiln 02,Brick kiln,30.32541,71.89348,Zigzag,Violation,146739,2026-11-23,Synthetic
+P24-1-F03,Khanewal,Demo Brick kiln 03,Brick kiln,30.27353,71.92057,Traditional,Compliant,0,2026-11-23,Synthetic
+P24-1-F04,Khanewal,Demo Brick kiln 04,Brick kiln,30.35055,71.88978,Zigzag,Violation,87495,2026-11-23,Synthetic
+P24-1-F05,Khanewal,Demo Brick kiln 05,Brick kiln,30.30755,71.92794,Traditional,Violation,89371,2026-11-23,Synthetic
+P24-1-F06,Khanewal,Demo Brick kiln 06,Brick kiln,30.34016,71.95546,Traditional,Compliant,0,2026-11-23,Synthetic
+P24-1-F07,Khanewal,Demo Brick kiln 07,Brick kiln,30.27302,71.9386,Traditional,Violation,69921,2026-11-23,Synthetic
+P24-1-F08,Khanewal,Demo Brick kiln 08,Brick kiln,30.28036,71.94702,Zigzag,Compliant,0,2026-11-23,Synthetic
+P24-1-F09,Khanewal,Demo Factory 09,Factory,30.33333,71.8804,Textile,Pending inspection,0,2026-11-23,Synthetic
+P24-1-F10,Khanewal,Demo Factory 10,Factory,30.28986,71.94426,Textile,Pending inspection,0,2026-11-23,Synthetic
+P24-1-F11,Khanewal,Demo Factory 11,Factory,30.29099,71.90923,Metal,Violation,132971,2026-11-23,Synthetic
+P24-1-F12,Khanewal,Demo Factory 12,Factory,30.30601,71.91348,Metal,Violation,112359,2026-11-23,Synthetic
+P24-1-F13,Khanewal,Demo Factory 13,Factory,30.34236,71.91825,Food processing,Compliant,0,2026-11-23,Synthetic
+P24-1-F14,Khanewal,Demo Factory 14,Factory,30.3498,71.93878,Food processing,Compliant,0,2026-11-23,Synthetic
+P24-1-F15,Khanewal,Demo Factory 15,Factory,30.29029,71.93388,Textile,Compliant,0,2026-11-23,Synthetic
+P24-1-F16,Khanewal,Demo Factory 16,Factory,30.30584,71.93169,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P31-1-F01,Khushab,Demo Brick kiln 01,Brick kiln,32.30353,72.3331,Traditional,Violation,91338,2026-11-23,Synthetic
+P31-1-F02,Khushab,Demo Brick kiln 02,Brick kiln,32.30483,72.35854,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P31-1-F03,Khushab,Demo Brick kiln 03,Brick kiln,32.28572,72.33833,Zigzag,Compliant,0,2026-11-23,Synthetic
+P31-1-F04,Khushab,Demo Brick kiln 04,Brick kiln,32.27981,72.31904,Zigzag,Violation,57526,2026-11-23,Synthetic
+P31-1-F05,Khushab,Demo Brick kiln 05,Brick kiln,32.35395,72.3263,Zigzag,Compliant,0,2026-11-23,Synthetic
+P31-1-F06,Khushab,Demo Brick kiln 06,Brick kiln,32.3473,72.32941,Traditional,Compliant,0,2026-11-23,Synthetic
+P31-1-F07,Khushab,Demo Brick kiln 07,Brick kiln,32.28473,72.35136,Zigzag,Compliant,0,2026-11-23,Synthetic
+P31-1-F08,Khushab,Demo Brick kiln 08,Brick kiln,32.27208,72.34771,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P31-1-F09,Khushab,Demo Factory 09,Factory,32.32674,72.34898,Textile,Compliant,0,2026-11-23,Synthetic
+P31-1-F10,Khushab,Demo Factory 10,Factory,32.29454,72.37321,Textile,Pending inspection,0,2026-11-23,Synthetic
+P31-1-F11,Khushab,Demo Factory 11,Factory,32.34916,72.39299,Metal,Pending inspection,0,2026-11-23,Synthetic
+P31-1-F12,Khushab,Demo Factory 12,Factory,32.27447,72.31678,Food processing,Compliant,0,2026-11-23,Synthetic
+P31-1-F13,Khushab,Demo Factory 13,Factory,32.31777,72.31311,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P31-1-F14,Khushab,Demo Factory 14,Factory,32.31682,72.31926,Metal,Compliant,0,2026-11-23,Synthetic
+P31-1-F15,Khushab,Demo Factory 15,Factory,32.28244,72.38105,Metal,Violation,112918,2026-11-23,Synthetic
+P31-1-F16,Khushab,Demo Factory 16,Factory,32.29465,72.33779,Textile,Compliant,0,2026-11-23,Synthetic
+P39-1-F01,Kot Addu,Demo Brick kiln 01,Brick kiln,30.505,70.93239,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P39-1-F02,Kot Addu,Demo Brick kiln 02,Brick kiln,30.44635,70.99443,Zigzag,Compliant,0,2026-11-23,Synthetic
+P39-1-F03,Kot Addu,Demo Brick kiln 03,Brick kiln,30.51167,70.92993,Zigzag,Compliant,0,2026-11-23,Synthetic
+P39-1-F04,Kot Addu,Demo Brick kiln 04,Brick kiln,30.47597,70.93585,Zigzag,Violation,129186,2026-11-23,Synthetic
+P39-1-F05,Kot Addu,Demo Brick kiln 05,Brick kiln,30.5142,70.94432,Traditional,Violation,44776,2026-11-23,Synthetic
+P39-1-F06,Kot Addu,Demo Brick kiln 06,Brick kiln,30.45752,70.92829,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P39-1-F07,Kot Addu,Demo Brick kiln 07,Brick kiln,30.50545,70.96037,Traditional,Compliant,0,2026-11-23,Synthetic
+P39-1-F08,Kot Addu,Demo Brick kiln 08,Brick kiln,30.48316,70.96207,Zigzag,Compliant,0,2026-11-23,Synthetic
+P39-1-F09,Kot Addu,Demo Factory 09,Factory,30.4468,70.99948,Textile,Compliant,0,2026-11-23,Synthetic
+P39-1-F10,Kot Addu,Demo Factory 10,Factory,30.52128,70.9285,Food processing,Violation,39080,2026-11-23,Synthetic
+P39-1-F11,Kot Addu,Demo Factory 11,Factory,30.45827,70.91648,Textile,Compliant,0,2026-11-23,Synthetic
+P39-1-F12,Kot Addu,Demo Factory 12,Factory,30.46443,70.96851,Food processing,Compliant,0,2026-11-23,Synthetic
+P39-1-F13,Kot Addu,Demo Factory 13,Factory,30.47153,70.96165,Food processing,Compliant,0,2026-11-23,Synthetic
+P39-1-F14,Kot Addu,Demo Factory 14,Factory,30.50914,70.98053,Food processing,Compliant,0,2026-11-23,Synthetic
+P39-1-F15,Kot Addu,Demo Factory 15,Factory,30.44925,70.99664,Metal,Compliant,0,2026-11-23,Synthetic
+P39-1-F16,Kot Addu,Demo Factory 16,Factory,30.4663,70.98528,Textile,Violation,17573,2026-11-23,Synthetic
+P01-1-F01,Lahore,Demo Brick kiln 01,Brick kiln,31.55537,74.32886,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P01-1-F02,Lahore,Demo Brick kiln 02,Brick kiln,31.52337,74.36729,Traditional,Compliant,0,2026-11-23,Synthetic
+P01-1-F03,Lahore,Demo Brick kiln 03,Brick kiln,31.50923,74.31537,Traditional,Compliant,0,2026-11-23,Synthetic
+P01-1-F04,Lahore,Demo Brick kiln 04,Brick kiln,31.49556,74.32349,Zigzag,Violation,65009,2026-11-23,Synthetic
+P01-1-F05,Lahore,Demo Brick kiln 05,Brick kiln,31.56691,74.3385,Traditional,Violation,74553,2026-11-23,Synthetic
+P01-1-F06,Lahore,Demo Brick kiln 06,Brick kiln,31.54334,74.36375,Traditional,Compliant,0,2026-11-23,Synthetic
+P01-1-F07,Lahore,Demo Brick kiln 07,Brick kiln,31.51479,74.32573,Traditional,Violation,148065,2026-11-23,Synthetic
+P01-1-F08,Lahore,Demo Brick kiln 08,Brick kiln,31.48757,74.35025,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P01-1-F09,Lahore,Demo Factory 09,Factory,31.55141,74.39904,Food processing,Violation,102399,2026-11-23,Synthetic
+P01-1-F10,Lahore,Demo Factory 10,Factory,31.51117,74.39506,Food processing,Compliant,0,2026-11-23,Synthetic
+P01-1-F11,Lahore,Demo Factory 11,Factory,31.52023,74.36034,Food processing,Violation,92539,2026-11-23,Synthetic
+P01-1-F12,Lahore,Demo Factory 12,Factory,31.56559,74.34752,Metal,Violation,66379,2026-11-23,Synthetic
+P01-1-F13,Lahore,Demo Factory 13,Factory,31.52068,74.34938,Metal,Compliant,0,2026-11-23,Synthetic
+P01-1-F14,Lahore,Demo Factory 14,Factory,31.4922,74.36985,Food processing,Violation,102807,2026-11-23,Synthetic
+P01-1-F15,Lahore,Demo Factory 15,Factory,31.48573,74.33917,Textile,Compliant,0,2026-11-23,Synthetic
+P01-1-F16,Lahore,Demo Factory 16,Factory,31.5614,74.33198,Food processing,Violation,34103,2026-11-23,Synthetic
+P28-1-F01,Layyah,Demo Brick kiln 01,Brick kiln,30.92986,70.90468,Zigzag,Compliant,0,2026-11-23,Synthetic
+P28-1-F02,Layyah,Demo Brick kiln 02,Brick kiln,30.96582,70.97413,Traditional,Compliant,0,2026-11-23,Synthetic
+P28-1-F03,Layyah,Demo Brick kiln 03,Brick kiln,30.96822,70.97797,Traditional,Violation,114373,2026-11-23,Synthetic
+P28-1-F04,Layyah,Demo Brick kiln 04,Brick kiln,30.96139,70.92105,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P28-1-F05,Layyah,Demo Brick kiln 05,Brick kiln,30.94107,70.95389,Traditional,Compliant,0,2026-11-23,Synthetic
+P28-1-F06,Layyah,Demo Brick kiln 06,Brick kiln,30.98386,70.94713,Zigzag,Compliant,0,2026-11-23,Synthetic
+P28-1-F07,Layyah,Demo Brick kiln 07,Brick kiln,30.98933,70.96906,Traditional,Compliant,0,2026-11-23,Synthetic
+P28-1-F08,Layyah,Demo Brick kiln 08,Brick kiln,30.94918,70.9491,Traditional,Compliant,0,2026-11-23,Synthetic
+P28-1-F09,Layyah,Demo Factory 09,Factory,30.92708,70.97435,Textile,Pending inspection,0,2026-11-23,Synthetic
+P28-1-F10,Layyah,Demo Factory 10,Factory,30.99314,70.95925,Food processing,Violation,42644,2026-11-23,Synthetic
+P28-1-F11,Layyah,Demo Factory 11,Factory,30.94835,70.93329,Food processing,Compliant,0,2026-11-23,Synthetic
+P28-1-F12,Layyah,Demo Factory 12,Factory,30.96313,70.91824,Metal,Compliant,0,2026-11-23,Synthetic
+P28-1-F13,Layyah,Demo Factory 13,Factory,30.942,70.9119,Metal,Pending inspection,0,2026-11-23,Synthetic
+P28-1-F14,Layyah,Demo Factory 14,Factory,30.98255,70.9073,Textile,Compliant,0,2026-11-23,Synthetic
+P28-1-F15,Layyah,Demo Factory 15,Factory,30.97687,70.96773,Metal,Compliant,0,2026-11-23,Synthetic
+P28-1-F16,Layyah,Demo Factory 16,Factory,30.97479,70.90262,Metal,Compliant,0,2026-11-23,Synthetic
+P23-1-F01,Lodhran,Demo Brick kiln 01,Brick kiln,29.51018,71.58926,Traditional,Compliant,0,2026-11-23,Synthetic
+P23-1-F02,Lodhran,Demo Brick kiln 02,Brick kiln,29.54861,71.65937,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P23-1-F03,Lodhran,Demo Brick kiln 03,Brick kiln,29.50526,71.64657,Zigzag,Compliant,0,2026-11-23,Synthetic
+P23-1-F04,Lodhran,Demo Brick kiln 04,Brick kiln,29.57248,71.63512,Traditional,Compliant,0,2026-11-23,Synthetic
+P23-1-F05,Lodhran,Demo Brick kiln 05,Brick kiln,29.50871,71.61352,Traditional,Violation,44111,2026-11-23,Synthetic
+P23-1-F06,Lodhran,Demo Brick kiln 06,Brick kiln,29.5546,71.63415,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P23-1-F07,Lodhran,Demo Brick kiln 07,Brick kiln,29.58279,71.62189,Traditional,Compliant,0,2026-11-23,Synthetic
+P23-1-F08,Lodhran,Demo Brick kiln 08,Brick kiln,29.58074,71.60405,Traditional,Compliant,0,2026-11-23,Synthetic
+P23-1-F09,Lodhran,Demo Factory 09,Factory,29.53107,71.58003,Food processing,Violation,59467,2026-11-23,Synthetic
+P23-1-F10,Lodhran,Demo Factory 10,Factory,29.56371,71.6503,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P23-1-F11,Lodhran,Demo Factory 11,Factory,29.52178,71.6428,Metal,Pending inspection,0,2026-11-23,Synthetic
+P23-1-F12,Lodhran,Demo Factory 12,Factory,29.53706,71.65578,Metal,Compliant,0,2026-11-23,Synthetic
+P23-1-F13,Lodhran,Demo Factory 13,Factory,29.50149,71.58922,Food processing,Violation,49280,2026-11-23,Synthetic
+P23-1-F14,Lodhran,Demo Factory 14,Factory,29.4976,71.57545,Textile,Compliant,0,2026-11-23,Synthetic
+P23-1-F15,Lodhran,Demo Factory 15,Factory,29.56256,71.57854,Food processing,Violation,125237,2026-11-23,Synthetic
+P23-1-F16,Lodhran,Demo Factory 16,Factory,29.50796,71.58862,Textile,Pending inspection,0,2026-11-23,Synthetic
+P18-1-F01,Mandi Bahauddin,Demo Brick kiln 01,Brick kiln,32.58518,73.5218,Traditional,Compliant,0,2026-11-23,Synthetic
+P18-1-F02,Mandi Bahauddin,Demo Brick kiln 02,Brick kiln,32.57218,73.51447,Zigzag,Compliant,0,2026-11-23,Synthetic
+P18-1-F03,Mandi Bahauddin,Demo Brick kiln 03,Brick kiln,32.58205,73.51559,Traditional,Compliant,0,2026-11-23,Synthetic
+P18-1-F04,Mandi Bahauddin,Demo Brick kiln 04,Brick kiln,32.56979,73.4678,Traditional,Compliant,0,2026-11-23,Synthetic
+P18-1-F05,Mandi Bahauddin,Demo Brick kiln 05,Brick kiln,32.54738,73.45581,Traditional,Compliant,0,2026-11-23,Synthetic
+P18-1-F06,Mandi Bahauddin,Demo Brick kiln 06,Brick kiln,32.55246,73.52215,Traditional,Compliant,0,2026-11-23,Synthetic
+P18-1-F07,Mandi Bahauddin,Demo Brick kiln 07,Brick kiln,32.54902,73.50689,Traditional,Compliant,0,2026-11-23,Synthetic
+P18-1-F08,Mandi Bahauddin,Demo Brick kiln 08,Brick kiln,32.57204,73.52683,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P18-1-F09,Mandi Bahauddin,Demo Factory 09,Factory,32.55398,73.46794,Food processing,Violation,142521,2026-11-23,Synthetic
+P18-1-F10,Mandi Bahauddin,Demo Factory 10,Factory,32.6028,73.49905,Textile,Violation,63753,2026-11-23,Synthetic
+P18-1-F11,Mandi Bahauddin,Demo Factory 11,Factory,32.60062,73.45046,Food processing,Compliant,0,2026-11-23,Synthetic
+P18-1-F12,Mandi Bahauddin,Demo Factory 12,Factory,32.59082,73.49183,Textile,Compliant,0,2026-11-23,Synthetic
+P18-1-F13,Mandi Bahauddin,Demo Factory 13,Factory,32.60489,73.52247,Metal,Violation,32085,2026-11-23,Synthetic
+P18-1-F14,Mandi Bahauddin,Demo Factory 14,Factory,32.56104,73.49504,Metal,Compliant,0,2026-11-23,Synthetic
+P18-1-F15,Mandi Bahauddin,Demo Factory 15,Factory,32.58744,73.50897,Metal,Compliant,0,2026-11-23,Synthetic
+P18-1-F16,Mandi Bahauddin,Demo Factory 16,Factory,32.55578,73.52858,Textile,Violation,118942,2026-11-23,Synthetic
+P30-1-F01,Mianwali,Demo Brick kiln 01,Brick kiln,32.5978,71.5468,Zigzag,Compliant,0,2026-11-23,Synthetic
+P30-1-F02,Mianwali,Demo Brick kiln 02,Brick kiln,32.60188,71.50986,Zigzag,Compliant,0,2026-11-23,Synthetic
+P30-1-F03,Mianwali,Demo Brick kiln 03,Brick kiln,32.53527,71.56566,Traditional,Compliant,0,2026-11-23,Synthetic
+P30-1-F04,Mianwali,Demo Brick kiln 04,Brick kiln,32.5266,71.52313,Traditional,Compliant,0,2026-11-23,Synthetic
+P30-1-F05,Mianwali,Demo Brick kiln 05,Brick kiln,32.5298,71.58193,Zigzag,Compliant,0,2026-11-23,Synthetic
+P30-1-F06,Mianwali,Demo Brick kiln 06,Brick kiln,32.55015,71.50948,Zigzag,Compliant,0,2026-11-23,Synthetic
+P30-1-F07,Mianwali,Demo Brick kiln 07,Brick kiln,32.57262,71.52299,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P30-1-F08,Mianwali,Demo Brick kiln 08,Brick kiln,32.60135,71.51349,Zigzag,Compliant,0,2026-11-23,Synthetic
+P30-1-F09,Mianwali,Demo Factory 09,Factory,32.57344,71.51548,Textile,Pending inspection,0,2026-11-23,Synthetic
+P30-1-F10,Mianwali,Demo Factory 10,Factory,32.58556,71.57829,Textile,Violation,149534,2026-11-23,Synthetic
+P30-1-F11,Mianwali,Demo Factory 11,Factory,32.52166,71.54062,Metal,Compliant,0,2026-11-23,Synthetic
+P30-1-F12,Mianwali,Demo Factory 12,Factory,32.5696,71.57706,Food processing,Compliant,0,2026-11-23,Synthetic
+P30-1-F13,Mianwali,Demo Factory 13,Factory,32.60576,71.54938,Textile,Compliant,0,2026-11-23,Synthetic
+P30-1-F14,Mianwali,Demo Factory 14,Factory,32.55195,71.54028,Food processing,Violation,75823,2026-11-23,Synthetic
+P30-1-F15,Mianwali,Demo Factory 15,Factory,32.54658,71.52189,Textile,Compliant,0,2026-11-23,Synthetic
+P30-1-F16,Mianwali,Demo Factory 16,Factory,32.59563,71.55754,Food processing,Compliant,0,2026-11-23,Synthetic
+P05-1-F01,Multan,Demo Brick kiln 01,Brick kiln,30.19894,71.473,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P05-1-F02,Multan,Demo Brick kiln 02,Brick kiln,30.24405,71.45125,Zigzag,Compliant,0,2026-11-23,Synthetic
+P05-1-F03,Multan,Demo Brick kiln 03,Brick kiln,30.21121,71.45758,Zigzag,Violation,59059,2026-11-23,Synthetic
+P05-1-F04,Multan,Demo Brick kiln 04,Brick kiln,30.18896,71.44713,Traditional,Compliant,0,2026-11-23,Synthetic
+P05-1-F05,Multan,Demo Brick kiln 05,Brick kiln,30.16862,71.43096,Traditional,Violation,64473,2026-11-23,Synthetic
+P05-1-F06,Multan,Demo Brick kiln 06,Brick kiln,30.17941,71.46665,Traditional,Violation,46039,2026-11-23,Synthetic
+P05-1-F07,Multan,Demo Brick kiln 07,Brick kiln,30.23451,71.49949,Zigzag,Violation,103652,2026-11-23,Synthetic
+P05-1-F08,Multan,Demo Brick kiln 08,Brick kiln,30.16483,71.50111,Zigzag,Compliant,0,2026-11-23,Synthetic
+P05-1-F09,Multan,Demo Factory 09,Factory,30.21221,71.41643,Food processing,Compliant,0,2026-11-23,Synthetic
+P05-1-F10,Multan,Demo Factory 10,Factory,30.22134,71.46665,Metal,Compliant,0,2026-11-23,Synthetic
+P05-1-F11,Multan,Demo Factory 11,Factory,30.23679,71.46069,Food processing,Compliant,0,2026-11-23,Synthetic
+P05-1-F12,Multan,Demo Factory 12,Factory,30.16059,71.48681,Food processing,Compliant,0,2026-11-23,Synthetic
+P05-1-F13,Multan,Demo Factory 13,Factory,30.19368,71.46687,Food processing,Compliant,0,2026-11-23,Synthetic
+P05-1-F14,Multan,Demo Factory 14,Factory,30.17455,71.48575,Textile,Compliant,0,2026-11-23,Synthetic
+P05-1-F15,Multan,Demo Factory 15,Factory,30.24699,71.50273,Metal,Pending inspection,0,2026-11-23,Synthetic
+P05-1-F16,Multan,Demo Factory 16,Factory,30.17698,71.4695,Metal,Pending inspection,0,2026-11-23,Synthetic
+P37-1-F01,Murree,Demo Brick kiln 01,Brick kiln,33.88104,73.42345,Zigzag,Compliant,0,2026-11-23,Synthetic
+P37-1-F02,Murree,Demo Brick kiln 02,Brick kiln,33.92274,73.43885,Traditional,Violation,69497,2026-11-23,Synthetic
+P37-1-F03,Murree,Demo Brick kiln 03,Brick kiln,33.90524,73.38805,Traditional,Compliant,0,2026-11-23,Synthetic
+P37-1-F04,Murree,Demo Brick kiln 04,Brick kiln,33.94734,73.37606,Traditional,Compliant,0,2026-11-23,Synthetic
+P37-1-F05,Murree,Demo Brick kiln 05,Brick kiln,33.95063,73.35262,Traditional,Violation,74914,2026-11-23,Synthetic
+P37-1-F06,Murree,Demo Brick kiln 06,Brick kiln,33.93405,73.36517,Zigzag,Violation,62742,2026-11-23,Synthetic
+P37-1-F07,Murree,Demo Brick kiln 07,Brick kiln,33.92763,73.35407,Traditional,Compliant,0,2026-11-23,Synthetic
+P37-1-F08,Murree,Demo Brick kiln 08,Brick kiln,33.89123,73.36303,Traditional,Compliant,0,2026-11-23,Synthetic
+P37-1-F09,Murree,Demo Factory 09,Factory,33.90292,73.35917,Textile,Pending inspection,0,2026-11-23,Synthetic
+P37-1-F10,Murree,Demo Factory 10,Factory,33.94475,73.43816,Metal,Compliant,0,2026-11-23,Synthetic
+P37-1-F11,Murree,Demo Factory 11,Factory,33.93059,73.42889,Metal,Violation,70063,2026-11-23,Synthetic
+P37-1-F12,Murree,Demo Factory 12,Factory,33.91074,73.35369,Metal,Violation,149096,2026-11-23,Synthetic
+P37-1-F13,Murree,Demo Factory 13,Factory,33.95823,73.3541,Metal,Violation,52247,2026-11-23,Synthetic
+P37-1-F14,Murree,Demo Factory 14,Factory,33.95321,73.35452,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P37-1-F15,Murree,Demo Factory 15,Factory,33.88252,73.35584,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P37-1-F16,Murree,Demo Factory 16,Factory,33.88596,73.3986,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P25-1-F01,Muzaffargarh,Demo Brick kiln 01,Brick kiln,30.04751,71.18252,Traditional,Compliant,0,2026-11-23,Synthetic
+P25-1-F02,Muzaffargarh,Demo Brick kiln 02,Brick kiln,30.09895,71.17043,Traditional,Compliant,0,2026-11-23,Synthetic
+P25-1-F03,Muzaffargarh,Demo Brick kiln 03,Brick kiln,30.09855,71.15095,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P25-1-F04,Muzaffargarh,Demo Brick kiln 04,Brick kiln,30.07547,71.21717,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P25-1-F05,Muzaffargarh,Demo Brick kiln 05,Brick kiln,30.09666,71.15389,Traditional,Violation,52028,2026-11-23,Synthetic
+P25-1-F06,Muzaffargarh,Demo Brick kiln 06,Brick kiln,30.06067,71.22337,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P25-1-F07,Muzaffargarh,Demo Brick kiln 07,Brick kiln,30.0752,71.18593,Traditional,Compliant,0,2026-11-23,Synthetic
+P25-1-F08,Muzaffargarh,Demo Brick kiln 08,Brick kiln,30.0443,71.1777,Zigzag,Compliant,0,2026-11-23,Synthetic
+P25-1-F09,Muzaffargarh,Demo Factory 09,Factory,30.01873,71.21266,Textile,Compliant,0,2026-11-23,Synthetic
+P25-1-F10,Muzaffargarh,Demo Factory 10,Factory,30.06686,71.14563,Food processing,Compliant,0,2026-11-23,Synthetic
+P25-1-F11,Muzaffargarh,Demo Factory 11,Factory,30.03028,71.23028,Metal,Compliant,0,2026-11-23,Synthetic
+P25-1-F12,Muzaffargarh,Demo Factory 12,Factory,30.09602,71.23041,Metal,Compliant,0,2026-11-23,Synthetic
+P25-1-F13,Muzaffargarh,Demo Factory 13,Factory,30.01618,71.15629,Textile,Compliant,0,2026-11-23,Synthetic
+P25-1-F14,Muzaffargarh,Demo Factory 14,Factory,30.06293,71.22459,Textile,Violation,102412,2026-11-23,Synthetic
+P25-1-F15,Muzaffargarh,Demo Factory 15,Factory,30.02993,71.21452,Metal,Violation,101264,2026-11-23,Synthetic
+P25-1-F16,Muzaffargarh,Demo Factory 16,Factory,30.09716,71.17378,Food processing,Compliant,0,2026-11-23,Synthetic
+P20-1-F01,Nankana Sahib,Demo Brick kiln 01,Brick kiln,31.4384,73.69532,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P20-1-F02,Nankana Sahib,Demo Brick kiln 02,Brick kiln,31.48743,73.70456,Zigzag,Compliant,0,2026-11-23,Synthetic
+P20-1-F03,Nankana Sahib,Demo Brick kiln 03,Brick kiln,31.44693,73.7147,Zigzag,Violation,70866,2026-11-23,Synthetic
+P20-1-F04,Nankana Sahib,Demo Brick kiln 04,Brick kiln,31.43864,73.72089,Traditional,Compliant,0,2026-11-23,Synthetic
+P20-1-F05,Nankana Sahib,Demo Brick kiln 05,Brick kiln,31.43498,73.66557,Traditional,Compliant,0,2026-11-23,Synthetic
+P20-1-F06,Nankana Sahib,Demo Brick kiln 06,Brick kiln,31.46482,73.70165,Zigzag,Compliant,0,2026-11-23,Synthetic
+P20-1-F07,Nankana Sahib,Demo Brick kiln 07,Brick kiln,31.46183,73.69893,Traditional,Compliant,0,2026-11-23,Synthetic
+P20-1-F08,Nankana Sahib,Demo Brick kiln 08,Brick kiln,31.42408,73.70928,Traditional,Compliant,0,2026-11-23,Synthetic
+P20-1-F09,Nankana Sahib,Demo Factory 09,Factory,31.42264,73.74424,Metal,Compliant,0,2026-11-23,Synthetic
+P20-1-F10,Nankana Sahib,Demo Factory 10,Factory,31.49877,73.69872,Food processing,Compliant,0,2026-11-23,Synthetic
+P20-1-F11,Nankana Sahib,Demo Factory 11,Factory,31.4764,73.72627,Food processing,Compliant,0,2026-11-23,Synthetic
+P20-1-F12,Nankana Sahib,Demo Factory 12,Factory,31.47548,73.73298,Textile,Violation,58674,2026-11-23,Synthetic
+P20-1-F13,Nankana Sahib,Demo Factory 13,Factory,31.47769,73.71638,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P20-1-F14,Nankana Sahib,Demo Factory 14,Factory,31.45632,73.72901,Metal,Violation,16389,2026-11-23,Synthetic
+P20-1-F15,Nankana Sahib,Demo Factory 15,Factory,31.45944,73.67531,Food processing,Violation,58954,2026-11-23,Synthetic
+P20-1-F16,Nankana Sahib,Demo Factory 16,Factory,31.43594,73.71233,Textile,Violation,41445,2026-11-23,Synthetic
+P19-1-F01,Narowal,Demo Brick kiln 01,Brick kiln,32.07472,74.85213,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P19-1-F02,Narowal,Demo Brick kiln 02,Brick kiln,32.06409,74.85995,Zigzag,Compliant,0,2026-11-23,Synthetic
+P19-1-F03,Narowal,Demo Brick kiln 03,Brick kiln,32.12964,74.91061,Traditional,Violation,127074,2026-11-23,Synthetic
+P19-1-F04,Narowal,Demo Brick kiln 04,Brick kiln,32.08238,74.88522,Zigzag,Compliant,0,2026-11-23,Synthetic
+P19-1-F05,Narowal,Demo Brick kiln 05,Brick kiln,32.0748,74.86991,Traditional,Compliant,0,2026-11-23,Synthetic
+P19-1-F06,Narowal,Demo Brick kiln 06,Brick kiln,32.11364,74.84845,Traditional,Compliant,0,2026-11-23,Synthetic
+P19-1-F07,Narowal,Demo Brick kiln 07,Brick kiln,32.12059,74.90948,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P19-1-F08,Narowal,Demo Brick kiln 08,Brick kiln,32.12404,74.86383,Zigzag,Compliant,0,2026-11-23,Synthetic
+P19-1-F09,Narowal,Demo Factory 09,Factory,32.06606,74.88423,Food processing,Compliant,0,2026-11-23,Synthetic
+P19-1-F10,Narowal,Demo Factory 10,Factory,32.11785,74.87041,Textile,Compliant,0,2026-11-23,Synthetic
+P19-1-F11,Narowal,Demo Factory 11,Factory,32.06197,74.88165,Food processing,Compliant,0,2026-11-23,Synthetic
+P19-1-F12,Narowal,Demo Factory 12,Factory,32.07143,74.91084,Metal,Pending inspection,0,2026-11-23,Synthetic
+P19-1-F13,Narowal,Demo Factory 13,Factory,32.095,74.90003,Metal,Pending inspection,0,2026-11-23,Synthetic
+P19-1-F14,Narowal,Demo Factory 14,Factory,32.1054,74.92224,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P19-1-F15,Narowal,Demo Factory 15,Factory,32.12142,74.88364,Food processing,Compliant,0,2026-11-23,Synthetic
+P19-1-F16,Narowal,Demo Factory 16,Factory,32.09314,74.88665,Textile,Compliant,0,2026-11-23,Synthetic
+P11-1-F01,Okara,Demo Brick kiln 01,Brick kiln,30.81882,73.45349,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P11-1-F02,Okara,Demo Brick kiln 02,Brick kiln,30.78795,73.47517,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P11-1-F03,Okara,Demo Brick kiln 03,Brick kiln,30.85722,73.48236,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P11-1-F04,Okara,Demo Brick kiln 04,Brick kiln,30.80383,73.42793,Zigzag,Violation,98049,2026-11-23,Synthetic
+P11-1-F05,Okara,Demo Brick kiln 05,Brick kiln,30.7987,73.45393,Traditional,Compliant,0,2026-11-23,Synthetic
+P11-1-F06,Okara,Demo Brick kiln 06,Brick kiln,30.78296,73.42136,Traditional,Compliant,0,2026-11-23,Synthetic
+P11-1-F07,Okara,Demo Brick kiln 07,Brick kiln,30.80394,73.47887,Traditional,Violation,103932,2026-11-23,Synthetic
+P11-1-F08,Okara,Demo Brick kiln 08,Brick kiln,30.78347,73.47688,Zigzag,Compliant,0,2026-11-23,Synthetic
+P11-1-F09,Okara,Demo Factory 09,Factory,30.84988,73.4164,Food processing,Violation,124026,2026-11-23,Synthetic
+P11-1-F10,Okara,Demo Factory 10,Factory,30.78886,73.42866,Metal,Pending inspection,0,2026-11-23,Synthetic
+P11-1-F11,Okara,Demo Factory 11,Factory,30.80638,73.44272,Textile,Compliant,0,2026-11-23,Synthetic
+P11-1-F12,Okara,Demo Factory 12,Factory,30.8375,73.47326,Food processing,Compliant,0,2026-11-23,Synthetic
+P11-1-F13,Okara,Demo Factory 13,Factory,30.78686,73.40419,Food processing,Violation,60889,2026-11-23,Synthetic
+P11-1-F14,Okara,Demo Factory 14,Factory,30.77116,73.42252,Food processing,Violation,112042,2026-11-23,Synthetic
+P11-1-F15,Okara,Demo Factory 15,Factory,30.7757,73.43937,Food processing,Violation,31872,2026-11-23,Synthetic
+P11-1-F16,Okara,Demo Factory 16,Factory,30.78468,73.42139,Metal,Compliant,0,2026-11-23,Synthetic
+P21-1-F01,Pakpattan,Demo Brick kiln 01,Brick kiln,30.33609,73.41874,Traditional,Violation,106656,2026-11-23,Synthetic
+P21-1-F02,Pakpattan,Demo Brick kiln 02,Brick kiln,30.38141,73.37825,Zigzag,Compliant,0,2026-11-23,Synthetic
+P21-1-F03,Pakpattan,Demo Brick kiln 03,Brick kiln,30.31507,73.40686,Traditional,Violation,145731,2026-11-23,Synthetic
+P21-1-F04,Pakpattan,Demo Brick kiln 04,Brick kiln,30.33508,73.35923,Zigzag,Compliant,0,2026-11-23,Synthetic
+P21-1-F05,Pakpattan,Demo Brick kiln 05,Brick kiln,30.33468,73.36723,Zigzag,Violation,137064,2026-11-23,Synthetic
+P21-1-F06,Pakpattan,Demo Brick kiln 06,Brick kiln,30.36518,73.36512,Zigzag,Compliant,0,2026-11-23,Synthetic
+P21-1-F07,Pakpattan,Demo Brick kiln 07,Brick kiln,30.30509,73.42612,Zigzag,Compliant,0,2026-11-23,Synthetic
+P21-1-F08,Pakpattan,Demo Brick kiln 08,Brick kiln,30.31316,73.41738,Zigzag,Compliant,0,2026-11-23,Synthetic
+P21-1-F09,Pakpattan,Demo Factory 09,Factory,30.30751,73.39871,Textile,Violation,32509,2026-11-23,Synthetic
+P21-1-F10,Pakpattan,Demo Factory 10,Factory,30.37551,73.41777,Textile,Pending inspection,0,2026-11-23,Synthetic
+P21-1-F11,Pakpattan,Demo Factory 11,Factory,30.31343,73.34573,Metal,Pending inspection,0,2026-11-23,Synthetic
+P21-1-F12,Pakpattan,Demo Factory 12,Factory,30.34864,73.40958,Textile,Compliant,0,2026-11-23,Synthetic
+P21-1-F13,Pakpattan,Demo Factory 13,Factory,30.36322,73.42565,Food processing,Violation,71771,2026-11-23,Synthetic
+P21-1-F14,Pakpattan,Demo Factory 14,Factory,30.37184,73.38865,Textile,Violation,124870,2026-11-23,Synthetic
+P21-1-F15,Pakpattan,Demo Factory 15,Factory,30.36038,73.36709,Food processing,Compliant,0,2026-11-23,Synthetic
+P21-1-F16,Pakpattan,Demo Factory 16,Factory,30.3382,73.38665,Textile,Violation,130077,2026-11-23,Synthetic
+P36-1-F01,Rahim Yar Khan,Demo Brick kiln 01,Brick kiln,28.44968,70.34072,Zigzag,Compliant,0,2026-11-23,Synthetic
+P36-1-F02,Rahim Yar Khan,Demo Brick kiln 02,Brick kiln,28.44514,70.31955,Traditional,Violation,36394,2026-11-23,Synthetic
+P36-1-F03,Rahim Yar Khan,Demo Brick kiln 03,Brick kiln,28.45043,70.34499,Traditional,Violation,138500,2026-11-23,Synthetic
+P36-1-F04,Rahim Yar Khan,Demo Brick kiln 04,Brick kiln,28.46743,70.29022,Traditional,Violation,76350,2026-11-23,Synthetic
+P36-1-F05,Rahim Yar Khan,Demo Brick kiln 05,Brick kiln,28.46765,70.26698,Traditional,Compliant,0,2026-11-23,Synthetic
+P36-1-F06,Rahim Yar Khan,Demo Brick kiln 06,Brick kiln,28.40442,70.32943,Traditional,Compliant,0,2026-11-23,Synthetic
+P36-1-F07,Rahim Yar Khan,Demo Brick kiln 07,Brick kiln,28.46705,70.33805,Zigzag,Compliant,0,2026-11-23,Synthetic
+P36-1-F08,Rahim Yar Khan,Demo Brick kiln 08,Brick kiln,28.40917,70.31311,Traditional,Violation,140878,2026-11-23,Synthetic
+P36-1-F09,Rahim Yar Khan,Demo Factory 09,Factory,28.38106,70.27835,Food processing,Violation,54830,2026-11-23,Synthetic
+P36-1-F10,Rahim Yar Khan,Demo Factory 10,Factory,28.42346,70.2635,Metal,Compliant,0,2026-11-23,Synthetic
+P36-1-F11,Rahim Yar Khan,Demo Factory 11,Factory,28.45671,70.26131,Metal,Compliant,0,2026-11-23,Synthetic
+P36-1-F12,Rahim Yar Khan,Demo Factory 12,Factory,28.38343,70.32601,Food processing,Compliant,0,2026-11-23,Synthetic
+P36-1-F13,Rahim Yar Khan,Demo Factory 13,Factory,28.45685,70.32568,Textile,Pending inspection,0,2026-11-23,Synthetic
+P36-1-F14,Rahim Yar Khan,Demo Factory 14,Factory,28.42667,70.32867,Textile,Compliant,0,2026-11-23,Synthetic
+P36-1-F15,Rahim Yar Khan,Demo Factory 15,Factory,28.39962,70.26098,Metal,Pending inspection,0,2026-11-23,Synthetic
+P36-1-F16,Rahim Yar Khan,Demo Factory 16,Factory,28.43606,70.32549,Food processing,Violation,24395,2026-11-23,Synthetic
+P27-1-F01,Rajanpur,Demo Brick kiln 01,Brick kiln,29.09265,70.33703,Zigzag,Compliant,0,2026-11-23,Synthetic
+P27-1-F02,Rajanpur,Demo Brick kiln 02,Brick kiln,29.13212,70.35245,Traditional,Compliant,0,2026-11-23,Synthetic
+P27-1-F03,Rajanpur,Demo Brick kiln 03,Brick kiln,29.06488,70.3669,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P27-1-F04,Rajanpur,Demo Brick kiln 04,Brick kiln,29.13516,70.30929,Zigzag,Compliant,0,2026-11-23,Synthetic
+P27-1-F05,Rajanpur,Demo Brick kiln 05,Brick kiln,29.06029,70.2902,Zigzag,Compliant,0,2026-11-23,Synthetic
+P27-1-F06,Rajanpur,Demo Brick kiln 06,Brick kiln,29.14128,70.28606,Traditional,Compliant,0,2026-11-23,Synthetic
+P27-1-F07,Rajanpur,Demo Brick kiln 07,Brick kiln,29.10441,70.34909,Traditional,Violation,67306,2026-11-23,Synthetic
+P27-1-F08,Rajanpur,Demo Brick kiln 08,Brick kiln,29.10965,70.32638,Traditional,Violation,68037,2026-11-23,Synthetic
+P27-1-F09,Rajanpur,Demo Factory 09,Factory,29.08334,70.32148,Metal,Compliant,0,2026-11-23,Synthetic
+P27-1-F10,Rajanpur,Demo Factory 10,Factory,29.12388,70.30286,Food processing,Compliant,0,2026-11-23,Synthetic
+P27-1-F11,Rajanpur,Demo Factory 11,Factory,29.12798,70.30911,Textile,Violation,100417,2026-11-23,Synthetic
+P27-1-F12,Rajanpur,Demo Factory 12,Factory,29.05919,70.34824,Food processing,Compliant,0,2026-11-23,Synthetic
+P27-1-F13,Rajanpur,Demo Factory 13,Factory,29.07169,70.34139,Textile,Pending inspection,0,2026-11-23,Synthetic
+P27-1-F14,Rajanpur,Demo Factory 14,Factory,29.10339,70.30548,Textile,Violation,49835,2026-11-23,Synthetic
+P27-1-F15,Rajanpur,Demo Factory 15,Factory,29.10712,70.33551,Metal,Compliant,0,2026-11-23,Synthetic
+P27-1-F16,Rajanpur,Demo Factory 16,Factory,29.11461,70.34012,Metal,Violation,20369,2026-11-23,Synthetic
+P03-1-F01,Rawalpindi,Demo Brick kiln 01,Brick kiln,33.61413,73.05167,Traditional,Compliant,0,2026-11-23,Synthetic
+P03-1-F02,Rawalpindi,Demo Brick kiln 02,Brick kiln,33.6136,73.08171,Zigzag,Compliant,0,2026-11-23,Synthetic
+P03-1-F03,Rawalpindi,Demo Brick kiln 03,Brick kiln,33.64859,73.06397,Traditional,Violation,76157,2026-11-23,Synthetic
+P03-1-F04,Rawalpindi,Demo Brick kiln 04,Brick kiln,33.61884,73.07063,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P03-1-F05,Rawalpindi,Demo Brick kiln 05,Brick kiln,33.62149,73.06903,Zigzag,Violation,26800,2026-11-23,Synthetic
+P03-1-F06,Rawalpindi,Demo Brick kiln 06,Brick kiln,33.62032,73.0582,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P03-1-F07,Rawalpindi,Demo Brick kiln 07,Brick kiln,33.61833,73.057,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P03-1-F08,Rawalpindi,Demo Brick kiln 08,Brick kiln,33.59019,73.03437,Zigzag,Compliant,0,2026-11-23,Synthetic
+P03-1-F09,Rawalpindi,Demo Factory 09,Factory,33.57396,73.05373,Metal,Violation,112685,2026-11-23,Synthetic
+P03-1-F10,Rawalpindi,Demo Factory 10,Factory,33.5768,73.06615,Textile,Compliant,0,2026-11-23,Synthetic
+P03-1-F11,Rawalpindi,Demo Factory 11,Factory,33.58897,73.07125,Food processing,Compliant,0,2026-11-23,Synthetic
+P03-1-F12,Rawalpindi,Demo Factory 12,Factory,33.63165,73.05196,Textile,Violation,42295,2026-11-23,Synthetic
+P03-1-F13,Rawalpindi,Demo Factory 13,Factory,33.65543,73.05987,Metal,Violation,128962,2026-11-23,Synthetic
+P03-1-F14,Rawalpindi,Demo Factory 14,Factory,33.6638,73.03501,Metal,Compliant,0,2026-11-23,Synthetic
+P03-1-F15,Rawalpindi,Demo Factory 15,Factory,33.59757,73.06727,Textile,Pending inspection,0,2026-11-23,Synthetic
+P03-1-F16,Rawalpindi,Demo Factory 16,Factory,33.66304,73.06226,Food processing,Violation,130395,2026-11-23,Synthetic
+P12-1-F01,Sahiwal,Demo Brick kiln 01,Brick kiln,30.69869,73.06861,Traditional,Violation,126597,2026-11-23,Synthetic
+P12-1-F02,Sahiwal,Demo Brick kiln 02,Brick kiln,30.64201,73.08984,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P12-1-F03,Sahiwal,Demo Brick kiln 03,Brick kiln,30.69627,73.12212,Traditional,Compliant,0,2026-11-23,Synthetic
+P12-1-F04,Sahiwal,Demo Brick kiln 04,Brick kiln,30.6436,73.09952,Zigzag,Violation,80770,2026-11-23,Synthetic
+P12-1-F05,Sahiwal,Demo Brick kiln 05,Brick kiln,30.67202,73.08701,Traditional,Violation,56696,2026-11-23,Synthetic
+P12-1-F06,Sahiwal,Demo Brick kiln 06,Brick kiln,30.64448,73.06171,Traditional,Compliant,0,2026-11-23,Synthetic
+P12-1-F07,Sahiwal,Demo Brick kiln 07,Brick kiln,30.65489,73.07077,Traditional,Violation,147854,2026-11-23,Synthetic
+P12-1-F08,Sahiwal,Demo Brick kiln 08,Brick kiln,30.61663,73.07873,Traditional,Compliant,0,2026-11-23,Synthetic
+P12-1-F09,Sahiwal,Demo Factory 09,Factory,30.67375,73.07501,Textile,Compliant,0,2026-11-23,Synthetic
+P12-1-F10,Sahiwal,Demo Factory 10,Factory,30.66708,73.05222,Textile,Pending inspection,0,2026-11-23,Synthetic
+P12-1-F11,Sahiwal,Demo Factory 11,Factory,30.62871,73.10485,Food processing,Compliant,0,2026-11-23,Synthetic
+P12-1-F12,Sahiwal,Demo Factory 12,Factory,30.62118,73.12251,Metal,Pending inspection,0,2026-11-23,Synthetic
+P12-1-F13,Sahiwal,Demo Factory 13,Factory,30.61571,73.06633,Metal,Pending inspection,0,2026-11-23,Synthetic
+P12-1-F14,Sahiwal,Demo Factory 14,Factory,30.62823,73.06851,Metal,Violation,29735,2026-11-23,Synthetic
+P12-1-F15,Sahiwal,Demo Factory 15,Factory,30.66867,73.13604,Food processing,Compliant,0,2026-11-23,Synthetic
+P12-1-F16,Sahiwal,Demo Factory 16,Factory,30.64175,73.09321,Food processing,Compliant,0,2026-11-23,Synthetic
+P08-1-F01,Sargodha,Demo Brick kiln 01,Brick kiln,32.05429,72.67418,Zigzag,Violation,60267,2026-11-23,Synthetic
+P08-1-F02,Sargodha,Demo Brick kiln 02,Brick kiln,32.08968,72.70044,Zigzag,Violation,98422,2026-11-23,Synthetic
+P08-1-F03,Sargodha,Demo Brick kiln 03,Brick kiln,32.1231,72.70654,Traditional,Compliant,0,2026-11-23,Synthetic
+P08-1-F04,Sargodha,Demo Brick kiln 04,Brick kiln,32.0929,72.69679,Zigzag,Compliant,0,2026-11-23,Synthetic
+P08-1-F05,Sargodha,Demo Brick kiln 05,Brick kiln,32.07027,72.68342,Zigzag,Compliant,0,2026-11-23,Synthetic
+P08-1-F06,Sargodha,Demo Brick kiln 06,Brick kiln,32.06605,72.71668,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P08-1-F07,Sargodha,Demo Brick kiln 07,Brick kiln,32.13381,72.64409,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P08-1-F08,Sargodha,Demo Brick kiln 08,Brick kiln,32.13582,72.64357,Traditional,Violation,145828,2026-11-23,Synthetic
+P08-1-F09,Sargodha,Demo Factory 09,Factory,32.13168,72.72985,Food processing,Violation,20941,2026-11-23,Synthetic
+P08-1-F10,Sargodha,Demo Factory 10,Factory,32.12663,72.69773,Metal,Violation,68415,2026-11-23,Synthetic
+P08-1-F11,Sargodha,Demo Factory 11,Factory,32.10162,72.6563,Food processing,Violation,20502,2026-11-23,Synthetic
+P08-1-F12,Sargodha,Demo Factory 12,Factory,32.11583,72.71889,Food processing,Compliant,0,2026-11-23,Synthetic
+P08-1-F13,Sargodha,Demo Factory 13,Factory,32.07825,72.72973,Metal,Violation,13266,2026-11-23,Synthetic
+P08-1-F14,Sargodha,Demo Factory 14,Factory,32.06588,72.66224,Metal,Compliant,0,2026-11-23,Synthetic
+P08-1-F15,Sargodha,Demo Factory 15,Factory,32.13498,72.70856,Food processing,Compliant,0,2026-11-23,Synthetic
+P08-1-F16,Sargodha,Demo Factory 16,Factory,32.08419,72.71914,Food processing,Compliant,0,2026-11-23,Synthetic
+P09-1-F01,Sheikhupura,Demo Brick kiln 01,Brick kiln,31.72707,74.02732,Zigzag,Compliant,0,2026-11-23,Synthetic
+P09-1-F02,Sheikhupura,Demo Brick kiln 02,Brick kiln,31.76025,73.95747,Traditional,Compliant,0,2026-11-23,Synthetic
+P09-1-F03,Sheikhupura,Demo Brick kiln 03,Brick kiln,31.73207,73.97449,Zigzag,Compliant,0,2026-11-23,Synthetic
+P09-1-F04,Sheikhupura,Demo Brick kiln 04,Brick kiln,31.73923,73.96958,Zigzag,Compliant,0,2026-11-23,Synthetic
+P09-1-F05,Sheikhupura,Demo Brick kiln 05,Brick kiln,31.7475,73.99072,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P09-1-F06,Sheikhupura,Demo Brick kiln 06,Brick kiln,31.75716,74.00249,Zigzag,Compliant,0,2026-11-23,Synthetic
+P09-1-F07,Sheikhupura,Demo Brick kiln 07,Brick kiln,31.75105,73.98795,Zigzag,Compliant,0,2026-11-23,Synthetic
+P09-1-F08,Sheikhupura,Demo Brick kiln 08,Brick kiln,31.73327,73.94818,Zigzag,Compliant,0,2026-11-23,Synthetic
+P09-1-F09,Sheikhupura,Demo Factory 09,Factory,31.68397,73.98361,Metal,Compliant,0,2026-11-23,Synthetic
+P09-1-F10,Sheikhupura,Demo Factory 10,Factory,31.69656,73.9468,Metal,Violation,52858,2026-11-23,Synthetic
+P09-1-F11,Sheikhupura,Demo Factory 11,Factory,31.73001,73.9537,Metal,Compliant,0,2026-11-23,Synthetic
+P09-1-F12,Sheikhupura,Demo Factory 12,Factory,31.69374,73.98501,Food processing,Compliant,0,2026-11-23,Synthetic
+P09-1-F13,Sheikhupura,Demo Factory 13,Factory,31.7054,73.99166,Food processing,Violation,30290,2026-11-23,Synthetic
+P09-1-F14,Sheikhupura,Demo Factory 14,Factory,31.71775,73.97495,Textile,Compliant,0,2026-11-23,Synthetic
+P09-1-F15,Sheikhupura,Demo Factory 15,Factory,31.68042,74.01437,Textile,Pending inspection,0,2026-11-23,Synthetic
+P09-1-F16,Sheikhupura,Demo Factory 16,Factory,31.72551,74.01266,Textile,Compliant,0,2026-11-23,Synthetic
+P06-1-F01,Sialkot,Demo Brick kiln 01,Brick kiln,32.51312,74.54516,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P06-1-F02,Sialkot,Demo Brick kiln 02,Brick kiln,32.44605,74.52829,Traditional,Violation,85063,2026-11-23,Synthetic
+P06-1-F03,Sialkot,Demo Brick kiln 03,Brick kiln,32.47251,74.57713,Zigzag,Compliant,0,2026-11-23,Synthetic
+P06-1-F04,Sialkot,Demo Brick kiln 04,Brick kiln,32.48297,74.56408,Zigzag,Compliant,0,2026-11-23,Synthetic
+P06-1-F05,Sialkot,Demo Brick kiln 05,Brick kiln,32.53026,74.53098,Zigzag,Compliant,0,2026-11-23,Synthetic
+P06-1-F06,Sialkot,Demo Brick kiln 06,Brick kiln,32.44689,74.57333,Traditional,Compliant,0,2026-11-23,Synthetic
+P06-1-F07,Sialkot,Demo Brick kiln 07,Brick kiln,32.4504,74.52637,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P06-1-F08,Sialkot,Demo Brick kiln 08,Brick kiln,32.48746,74.57565,Traditional,Compliant,0,2026-11-23,Synthetic
+P06-1-F09,Sialkot,Demo Factory 09,Factory,32.5196,74.52859,Metal,Compliant,0,2026-11-23,Synthetic
+P06-1-F10,Sialkot,Demo Factory 10,Factory,32.51923,74.52334,Food processing,Violation,146713,2026-11-23,Synthetic
+P06-1-F11,Sialkot,Demo Factory 11,Factory,32.45902,74.51537,Metal,Compliant,0,2026-11-23,Synthetic
+P06-1-F12,Sialkot,Demo Factory 12,Factory,32.46026,74.54945,Metal,Compliant,0,2026-11-23,Synthetic
+P06-1-F13,Sialkot,Demo Factory 13,Factory,32.50297,74.51196,Metal,Compliant,0,2026-11-23,Synthetic
+P06-1-F14,Sialkot,Demo Factory 14,Factory,32.50675,74.53023,Metal,Compliant,0,2026-11-23,Synthetic
+P06-1-F15,Sialkot,Demo Factory 15,Factory,32.51898,74.53972,Textile,Compliant,0,2026-11-23,Synthetic
+P06-1-F16,Sialkot,Demo Factory 16,Factory,32.47308,74.49175,Food processing,Compliant,0,2026-11-23,Synthetic
+P38-1-F01,Talagang,Demo Brick kiln 01,Brick kiln,32.89048,72.38834,Zigzag,Violation,28305,2026-11-23,Synthetic
+P38-1-F02,Talagang,Demo Brick kiln 02,Brick kiln,32.95195,72.4512,Zigzag,Violation,109450,2026-11-23,Synthetic
+P38-1-F03,Talagang,Demo Brick kiln 03,Brick kiln,32.94355,72.45623,Traditional,Compliant,0,2026-11-23,Synthetic
+P38-1-F04,Talagang,Demo Brick kiln 04,Brick kiln,32.92605,72.41487,Zigzag,Compliant,0,2026-11-23,Synthetic
+P38-1-F05,Talagang,Demo Brick kiln 05,Brick kiln,32.9345,72.36815,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P38-1-F06,Talagang,Demo Brick kiln 06,Brick kiln,32.88288,72.37662,Zigzag,Compliant,0,2026-11-23,Synthetic
+P38-1-F07,Talagang,Demo Brick kiln 07,Brick kiln,32.90397,72.36983,Zigzag,Compliant,0,2026-11-23,Synthetic
+P38-1-F08,Talagang,Demo Brick kiln 08,Brick kiln,32.9134,72.40155,Zigzag,Compliant,0,2026-11-23,Synthetic
+P38-1-F09,Talagang,Demo Factory 09,Factory,32.90884,72.37496,Textile,Compliant,0,2026-11-23,Synthetic
+P38-1-F10,Talagang,Demo Factory 10,Factory,32.94742,72.45605,Textile,Pending inspection,0,2026-11-23,Synthetic
+P38-1-F11,Talagang,Demo Factory 11,Factory,32.9247,72.41474,Textile,Compliant,0,2026-11-23,Synthetic
+P38-1-F12,Talagang,Demo Factory 12,Factory,32.94815,72.44286,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P38-1-F13,Talagang,Demo Factory 13,Factory,32.91841,72.4359,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P38-1-F14,Talagang,Demo Factory 14,Factory,32.96295,72.37537,Textile,Pending inspection,0,2026-11-23,Synthetic
+P38-1-F15,Talagang,Demo Factory 15,Factory,32.94863,72.37527,Textile,Violation,14785,2026-11-23,Synthetic
+P38-1-F16,Talagang,Demo Factory 16,Factory,32.94864,72.43881,Metal,Violation,129960,2026-11-23,Synthetic
+P41-1-F01,Taunsa,Demo Brick kiln 01,Brick kiln,30.65179,70.64571,Traditional,Compliant,0,2026-11-23,Synthetic
+P41-1-F02,Taunsa,Demo Brick kiln 02,Brick kiln,30.68332,70.64474,Zigzag,Compliant,0,2026-11-23,Synthetic
+P41-1-F03,Taunsa,Demo Brick kiln 03,Brick kiln,30.68124,70.70002,Traditional,Compliant,0,2026-11-23,Synthetic
+P41-1-F04,Taunsa,Demo Brick kiln 04,Brick kiln,30.68131,70.65038,Traditional,Violation,17274,2026-11-23,Synthetic
+P41-1-F05,Taunsa,Demo Brick kiln 05,Brick kiln,30.66614,70.66611,Zigzag,Compliant,0,2026-11-23,Synthetic
+P41-1-F06,Taunsa,Demo Brick kiln 06,Brick kiln,30.67465,70.67179,Zigzag,Compliant,0,2026-11-23,Synthetic
+P41-1-F07,Taunsa,Demo Brick kiln 07,Brick kiln,30.66608,70.70815,Traditional,Violation,79554,2026-11-23,Synthetic
+P41-1-F08,Taunsa,Demo Brick kiln 08,Brick kiln,30.71841,70.63366,Traditional,Violation,88167,2026-11-23,Synthetic
+P41-1-F09,Taunsa,Demo Factory 09,Factory,30.71662,70.67345,Textile,Compliant,0,2026-11-23,Synthetic
+P41-1-F10,Taunsa,Demo Factory 10,Factory,30.72664,70.63124,Metal,Violation,110945,2026-11-23,Synthetic
+P41-1-F11,Taunsa,Demo Factory 11,Factory,30.64827,70.67468,Textile,Pending inspection,0,2026-11-23,Synthetic
+P41-1-F12,Taunsa,Demo Factory 12,Factory,30.68908,70.64414,Textile,Violation,63063,2026-11-23,Synthetic
+P41-1-F13,Taunsa,Demo Factory 13,Factory,30.72731,70.7014,Textile,Compliant,0,2026-11-23,Synthetic
+P41-1-F14,Taunsa,Demo Factory 14,Factory,30.67207,70.67376,Metal,Violation,71971,2026-11-23,Synthetic
+P41-1-F15,Taunsa,Demo Factory 15,Factory,30.65704,70.63025,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P41-1-F16,Taunsa,Demo Factory 16,Factory,30.72151,70.66429,Metal,Pending inspection,0,2026-11-23,Synthetic
+P15-1-F01,Toba Tek Singh,Demo Brick kiln 01,Brick kiln,30.92892,72.45795,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P15-1-F02,Toba Tek Singh,Demo Brick kiln 02,Brick kiln,30.94934,72.47966,Traditional,Compliant,0,2026-11-23,Synthetic
+P15-1-F03,Toba Tek Singh,Demo Brick kiln 03,Brick kiln,30.95847,72.4648,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P15-1-F04,Toba Tek Singh,Demo Brick kiln 04,Brick kiln,30.98449,72.45374,Zigzag,Compliant,0,2026-11-23,Synthetic
+P15-1-F05,Toba Tek Singh,Demo Brick kiln 05,Brick kiln,30.97985,72.4782,Zigzag,Violation,23162,2026-11-23,Synthetic
+P15-1-F06,Toba Tek Singh,Demo Brick kiln 06,Brick kiln,31.0065,72.51506,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P15-1-F07,Toba Tek Singh,Demo Brick kiln 07,Brick kiln,30.94983,72.48084,Zigzag,Violation,75435,2026-11-23,Synthetic
+P15-1-F08,Toba Tek Singh,Demo Brick kiln 08,Brick kiln,30.92647,72.48089,Zigzag,Compliant,0,2026-11-23,Synthetic
+P15-1-F09,Toba Tek Singh,Demo Factory 09,Factory,30.95575,72.46542,Textile,Compliant,0,2026-11-23,Synthetic
+P15-1-F10,Toba Tek Singh,Demo Factory 10,Factory,30.95595,72.47878,Metal,Violation,149654,2026-11-23,Synthetic
+P15-1-F11,Toba Tek Singh,Demo Factory 11,Factory,30.95512,72.50057,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P15-1-F12,Toba Tek Singh,Demo Factory 12,Factory,30.968,72.52957,Metal,Violation,18220,2026-11-23,Synthetic
+P15-1-F13,Toba Tek Singh,Demo Factory 13,Factory,30.95964,72.51054,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P15-1-F14,Toba Tek Singh,Demo Factory 14,Factory,30.92937,72.49827,Metal,Compliant,0,2026-11-23,Synthetic
+P15-1-F15,Toba Tek Singh,Demo Factory 15,Factory,30.98865,72.49338,Food processing,Violation,131710,2026-11-23,Synthetic
+P15-1-F16,Toba Tek Singh,Demo Factory 16,Factory,30.97762,72.50281,Metal,Violation,127943,2026-11-23,Synthetic
+P22-1-F01,Vehari,Demo Brick kiln 01,Brick kiln,30.06249,72.30506,Traditional,Violation,40277,2026-11-23,Synthetic
+P22-1-F02,Vehari,Demo Brick kiln 02,Brick kiln,30.06171,72.36014,Zigzag,Compliant,0,2026-11-23,Synthetic
+P22-1-F03,Vehari,Demo Brick kiln 03,Brick kiln,30.01479,72.36512,Zigzag,Compliant,0,2026-11-23,Synthetic
+P22-1-F04,Vehari,Demo Brick kiln 04,Brick kiln,29.9927,72.3817,Zigzag,Violation,37971,2026-11-23,Synthetic
+P22-1-F05,Vehari,Demo Brick kiln 05,Brick kiln,30.01059,72.38927,Traditional,Violation,95473,2026-11-23,Synthetic
+P22-1-F06,Vehari,Demo Brick kiln 06,Brick kiln,30.01196,72.3287,Zigzag,Compliant,0,2026-11-23,Synthetic
+P22-1-F07,Vehari,Demo Brick kiln 07,Brick kiln,29.98816,72.30222,Traditional,Violation,148339,2026-11-23,Synthetic
+P22-1-F08,Vehari,Demo Brick kiln 08,Brick kiln,30.05236,72.34423,Traditional,Compliant,0,2026-11-23,Synthetic
+P22-1-F09,Vehari,Demo Factory 09,Factory,30.02353,72.331,Metal,Violation,70361,2026-11-23,Synthetic
+P22-1-F10,Vehari,Demo Factory 10,Factory,30.03811,72.38261,Food processing,Pending inspection,0,2026-11-23,Synthetic
+P22-1-F11,Vehari,Demo Factory 11,Factory,30.0189,72.31804,Textile,Compliant,0,2026-11-23,Synthetic
+P22-1-F12,Vehari,Demo Factory 12,Factory,30.01015,72.31749,Food processing,Violation,79480,2026-11-23,Synthetic
+P22-1-F13,Vehari,Demo Factory 13,Factory,30.06701,72.30471,Textile,Compliant,0,2026-11-23,Synthetic
+P22-1-F14,Vehari,Demo Factory 14,Factory,29.9915,72.32543,Metal,Pending inspection,0,2026-11-23,Synthetic
+P22-1-F15,Vehari,Demo Factory 15,Factory,30.00308,72.31961,Metal,Violation,79719,2026-11-23,Synthetic
+P22-1-F16,Vehari,Demo Factory 16,Factory,30.03652,72.33569,Textile,Pending inspection,0,2026-11-23,Synthetic
+P40-1-F01,Wazirabad,Demo Brick kiln 01,Brick kiln,32.42878,74.15525,Zigzag,Pending inspection,0,2026-11-23,Synthetic
+P40-1-F02,Wazirabad,Demo Brick kiln 02,Brick kiln,32.42348,74.14427,Zigzag,Compliant,0,2026-11-23,Synthetic
+P40-1-F03,Wazirabad,Demo Brick kiln 03,Brick kiln,32.39644,74.15868,Zigzag,Compliant,0,2026-11-23,Synthetic
+P40-1-F04,Wazirabad,Demo Brick kiln 04,Brick kiln,32.45536,74.09915,Traditional,Pending inspection,0,2026-11-23,Synthetic
+P40-1-F05,Wazirabad,Demo Brick kiln 05,Brick kiln,32.39823,74.09531,Traditional,Compliant,0,2026-11-23,Synthetic
+P40-1-F06,Wazirabad,Demo Brick kiln 06,Brick kiln,32.46705,74.1143,Traditional,Violation,69674,2026-11-23,Synthetic
+P40-1-F07,Wazirabad,Demo Brick kiln 07,Brick kiln,32.46182,74.13718,Traditional,Violation,148472,2026-11-23,Synthetic
+P40-1-F08,Wazirabad,Demo Brick kiln 08,Brick kiln,32.40373,74.16794,Zigzag,Compliant,0,2026-11-23,Synthetic
+P40-1-F09,Wazirabad,Demo Factory 09,Factory,32.46999,74.15304,Metal,Violation,116848,2026-11-23,Synthetic
+P40-1-F10,Wazirabad,Demo Factory 10,Factory,32.42789,74.12617,Textile,Violation,47075,2026-11-23,Synthetic
+P40-1-F11,Wazirabad,Demo Factory 11,Factory,32.41964,74.12067,Metal,Compliant,0,2026-11-23,Synthetic
+P40-1-F12,Wazirabad,Demo Factory 12,Factory,32.42308,74.10667,Textile,Pending inspection,0,2026-11-23,Synthetic
+P40-1-F13,Wazirabad,Demo Factory 13,Factory,32.40226,74.15562,Metal,Pending inspection,0,2026-11-23,Synthetic
+P40-1-F14,Wazirabad,Demo Factory 14,Factory,32.4116,74.10673,Textile,Compliant,0,2026-11-23,Synthetic
+P40-1-F15,Wazirabad,Demo Factory 15,Factory,32.45883,74.18202,Textile,Compliant,0,2026-11-23,Synthetic
+P40-1-F16,Wazirabad,Demo Factory 16,Factory,32.45755,74.09964,Metal,Violation,115850,2026-11-23,Synthetic
