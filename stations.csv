@@ -1,0 +1,165 @@
+station_id,city,site_type,latitude,longitude,source
+P01-1,Lahore,Urban,31.53918,74.35572,Illustrative location
+P01-2,Lahore,Traffic,31.52722,74.35388,Illustrative location
+P01-3,Lahore,Industrial,31.52882,74.35025,Illustrative location
+P01-4,Lahore,Background,31.52057,74.35927,Illustrative location
+P02-1,Faisalabad,Urban,31.44061,73.08859,Illustrative location
+P02-2,Faisalabad,Traffic,31.39999,73.05194,Illustrative location
+P02-3,Faisalabad,Industrial,31.41452,73.04968,Illustrative location
+P02-4,Faisalabad,Background,31.42445,73.07969,Illustrative location
+P03-1,Rawalpindi,Urban,33.61608,73.07443,Illustrative location
+P03-2,Rawalpindi,Traffic,33.63498,73.04687,Illustrative location
+P03-3,Rawalpindi,Industrial,33.60991,73.07032,Illustrative location
+P03-4,Rawalpindi,Background,33.61467,73.04779,Illustrative location
+P04-1,Gujranwala,Urban,32.13575,74.20937,Illustrative location
+P04-2,Gujranwala,Traffic,32.18959,74.21917,Illustrative location
+P04-3,Gujranwala,Industrial,32.14857,74.20254,Illustrative location
+P04-4,Gujranwala,Background,32.17764,74.18465,Illustrative location
+P05-1,Multan,Urban,30.21044,71.46984,Illustrative location
+P05-2,Multan,Traffic,30.21396,71.4689,Illustrative location
+P05-3,Multan,Industrial,30.2232,71.46104,Illustrative location
+P05-4,Multan,Background,30.1728,71.44427,Illustrative location
+P06-1,Sialkot,Urban,32.50517,74.51507,Illustrative location
+P06-2,Sialkot,Traffic,32.5136,74.49828,Illustrative location
+P06-3,Sialkot,Industrial,32.45719,74.5622,Illustrative location
+P06-4,Sialkot,Background,32.473,74.55743,Illustrative location
+P07-1,Bahawalpur,Urban,29.36234,71.68203,Illustrative location
+P07-2,Bahawalpur,Traffic,29.4202,71.69325,Illustrative location
+P07-3,Bahawalpur,Industrial,29.42128,71.6824,Illustrative location
+P07-4,Bahawalpur,Background,29.37827,71.70685,Illustrative location
+P08-1,Sargodha,Urban,32.07844,72.6922,Illustrative location
+P08-2,Sargodha,Traffic,32.09643,72.70495,Illustrative location
+P08-3,Sargodha,Industrial,32.09668,72.69488,Illustrative location
+P08-4,Sargodha,Background,32.10905,72.6579,Illustrative location
+P09-1,Sheikhupura,Urban,31.70018,73.97586,Illustrative location
+P09-2,Sheikhupura,Traffic,31.7382,74.01102,Illustrative location
+P09-3,Sheikhupura,Industrial,31.70461,73.98977,Illustrative location
+P09-4,Sheikhupura,Background,31.72257,73.97902,Illustrative location
+P10-1,Kasur,Urban,31.11811,74.42132,Illustrative location
+P10-2,Kasur,Traffic,31.1539,74.44054,Illustrative location
+P10-3,Kasur,Industrial,31.13302,74.43674,Illustrative location
+P10-4,Kasur,Background,31.12287,74.45205,Illustrative location
+P11-1,Okara,Urban,30.80229,73.44149,Illustrative location
+P11-2,Okara,Traffic,30.7855,73.45938,Illustrative location
+P11-3,Okara,Industrial,30.84007,73.43671,Illustrative location
+P11-4,Okara,Background,30.82287,73.45761,Illustrative location
+P12-1,Sahiwal,Urban,30.63795,73.0869,Illustrative location
+P12-2,Sahiwal,Traffic,30.65095,73.11771,Illustrative location
+P12-3,Sahiwal,Industrial,30.64546,73.08885,Illustrative location
+P12-4,Sahiwal,Background,30.70453,73.08758,Illustrative location
+P13-1,Jhang,Urban,31.28007,72.30161,Illustrative location
+P13-2,Jhang,Traffic,31.28402,72.3406,Illustrative location
+P13-3,Jhang,Industrial,31.26135,72.30738,Illustrative location
+P13-4,Jhang,Background,31.26138,72.329,Illustrative location
+P14-1,Chiniot,Urban,31.72922,73.00621,Illustrative location
+P14-2,Chiniot,Traffic,31.7523,72.99951,Illustrative location
+P14-3,Chiniot,Industrial,31.75498,72.99871,Illustrative location
+P14-4,Chiniot,Background,31.70341,73.0081,Illustrative location
+P15-1,Toba Tek Singh,Urban,30.98422,72.48427,Illustrative location
+P15-2,Toba Tek Singh,Traffic,30.98305,72.50884,Illustrative location
+P15-3,Toba Tek Singh,Industrial,30.94201,72.46876,Illustrative location
+P15-4,Toba Tek Singh,Background,30.95479,72.5089,Illustrative location
+P16-1,Hafizabad,Urban,32.07856,73.69541,Illustrative location
+P16-2,Hafizabad,Traffic,32.09209,73.70453,Illustrative location
+P16-3,Hafizabad,Industrial,32.08251,73.69844,Illustrative location
+P16-4,Hafizabad,Background,32.07861,73.6848,Illustrative location
+P17-1,Gujrat,Urban,32.56812,74.09539,Illustrative location
+P17-2,Gujrat,Traffic,32.53522,74.09332,Illustrative location
+P17-3,Gujrat,Industrial,32.59147,74.0506,Illustrative location
+P17-4,Gujrat,Background,32.56621,74.10057,Illustrative location
+P18-1,Mandi Bahauddin,Urban,32.60027,73.4939,Illustrative location
+P18-2,Mandi Bahauddin,Traffic,32.55639,73.5212,Illustrative location
+P18-3,Mandi Bahauddin,Industrial,32.5974,73.46286,Illustrative location
+P18-4,Mandi Bahauddin,Background,32.57264,73.49432,Illustrative location
+P19-1,Narowal,Urban,32.09678,74.88944,Illustrative location
+P19-2,Narowal,Traffic,32.07956,74.89211,Illustrative location
+P19-3,Narowal,Industrial,32.11358,74.89059,Illustrative location
+P19-4,Narowal,Background,32.09083,74.8765,Illustrative location
+P20-1,Nankana Sahib,Urban,31.47383,73.67169,Illustrative location
+P20-2,Nankana Sahib,Traffic,31.4533,73.70198,Illustrative location
+P20-3,Nankana Sahib,Industrial,31.48352,73.69997,Illustrative location
+P20-4,Nankana Sahib,Background,31.44161,73.73002,Illustrative location
+P21-1,Pakpattan,Urban,30.34957,73.35946,Illustrative location
+P21-2,Pakpattan,Traffic,30.32849,73.4182,Illustrative location
+P21-3,Pakpattan,Industrial,30.3544,73.38321,Illustrative location
+P21-4,Pakpattan,Background,30.3193,73.38385,Illustrative location
+P22-1,Vehari,Urban,30.01639,72.33596,Illustrative location
+P22-2,Vehari,Traffic,30.02332,72.37138,Illustrative location
+P22-3,Vehari,Industrial,30.06473,72.3475,Illustrative location
+P22-4,Vehari,Background,30.01267,72.33228,Illustrative location
+P23-1,Lodhran,Urban,29.51212,71.60115,Illustrative location
+P23-2,Lodhran,Traffic,29.52276,71.61391,Illustrative location
+P23-3,Lodhran,Industrial,29.55431,71.61499,Illustrative location
+P23-4,Lodhran,Background,29.56218,71.65157,Illustrative location
+P24-1,Khanewal,Urban,30.31756,71.89946,Illustrative location
+P24-2,Khanewal,Traffic,30.32117,71.92648,Illustrative location
+P24-3,Khanewal,Industrial,30.31105,71.92546,Illustrative location
+P24-4,Khanewal,Background,30.31781,71.89641,Illustrative location
+P25-1,Muzaffargarh,Urban,30.05404,71.20426,Illustrative location
+P25-2,Muzaffargarh,Traffic,30.0655,71.21135,Illustrative location
+P25-3,Muzaffargarh,Industrial,30.04598,71.17048,Illustrative location
+P25-4,Muzaffargarh,Background,30.06152,71.16378,Illustrative location
+P26-1,Dera Ghazi Khan,Urban,30.04831,70.64743,Illustrative location
+P26-2,Dera Ghazi Khan,Traffic,30.05622,70.62125,Illustrative location
+P26-3,Dera Ghazi Khan,Industrial,30.02294,70.62029,Illustrative location
+P26-4,Dera Ghazi Khan,Background,30.0262,70.67153,Illustrative location
+P27-1,Rajanpur,Urban,29.10275,70.30559,Illustrative location
+P27-2,Rajanpur,Traffic,29.11167,70.34231,Illustrative location
+P27-3,Rajanpur,Industrial,29.0875,70.32462,Illustrative location
+P27-4,Rajanpur,Background,29.08685,70.32505,Illustrative location
+P28-1,Layyah,Urban,30.99344,70.92702,Illustrative location
+P28-2,Layyah,Traffic,30.92598,70.90657,Illustrative location
+P28-3,Layyah,Industrial,30.95167,70.97031,Illustrative location
+P28-4,Layyah,Background,30.9293,70.94492,Illustrative location
+P29-1,Bhakkar,Urban,31.61693,71.06327,Illustrative location
+P29-2,Bhakkar,Traffic,31.62739,71.06875,Illustrative location
+P29-3,Bhakkar,Industrial,31.65789,71.03769,Illustrative location
+P29-4,Bhakkar,Background,31.59844,71.03601,Illustrative location
+P30-1,Mianwali,Urban,32.60472,71.53595,Illustrative location
+P30-2,Mianwali,Traffic,32.54549,71.5581,Illustrative location
+P30-3,Mianwali,Industrial,32.551,71.53536,Illustrative location
+P30-4,Mianwali,Background,32.54951,71.5686,Illustrative location
+P31-1,Khushab,Urban,32.30259,72.3688,Illustrative location
+P31-2,Khushab,Traffic,32.30918,72.36536,Illustrative location
+P31-3,Khushab,Industrial,32.30736,72.33222,Illustrative location
+P31-4,Khushab,Background,32.33291,72.33114,Illustrative location
+P32-1,Chakwal,Urban,32.90864,72.87647,Illustrative location
+P32-2,Chakwal,Traffic,32.90487,72.84962,Illustrative location
+P32-3,Chakwal,Industrial,32.95755,72.86405,Illustrative location
+P32-4,Chakwal,Background,32.96443,72.8641,Illustrative location
+P33-1,Jhelum,Urban,32.97264,73.7181,Illustrative location
+P33-2,Jhelum,Traffic,32.90524,73.7386,Illustrative location
+P33-3,Jhelum,Industrial,32.97385,73.72683,Illustrative location
+P33-4,Jhelum,Background,32.90857,73.73136,Illustrative location
+P34-1,Attock,Urban,33.74329,72.35162,Illustrative location
+P34-2,Attock,Traffic,33.78192,72.36509,Illustrative location
+P34-3,Attock,Industrial,33.7406,72.35432,Illustrative location
+P34-4,Attock,Background,33.73998,72.39412,Illustrative location
+P35-1,Bahawalnagar,Urban,29.99088,73.21706,Illustrative location
+P35-2,Bahawalnagar,Traffic,29.96315,73.27348,Illustrative location
+P35-3,Bahawalnagar,Industrial,30.00934,73.2231,Illustrative location
+P35-4,Bahawalnagar,Background,29.99724,73.22152,Illustrative location
+P36-1,Rahim Yar Khan,Urban,28.39526,70.31691,Illustrative location
+P36-2,Rahim Yar Khan,Traffic,28.44621,70.27448,Illustrative location
+P36-3,Rahim Yar Khan,Industrial,28.41284,70.31997,Illustrative location
+P36-4,Rahim Yar Khan,Background,28.44111,70.30277,Illustrative location
+P37-1,Murree,Urban,33.92294,73.38068,Illustrative location
+P37-2,Murree,Traffic,33.91777,73.3953,Illustrative location
+P37-3,Murree,Industrial,33.9447,73.38646,Illustrative location
+P37-4,Murree,Background,33.88236,73.4194,Illustrative location
+P38-1,Talagang,Urban,32.92573,72.42832,Illustrative location
+P38-2,Talagang,Traffic,32.93611,72.40336,Illustrative location
+P38-3,Talagang,Industrial,32.93885,72.43561,Illustrative location
+P38-4,Talagang,Background,32.8966,72.38023,Illustrative location
+P39-1,Kot Addu,Urban,30.49754,70.95675,Illustrative location
+P39-2,Kot Addu,Traffic,30.48274,70.98825,Illustrative location
+P39-3,Kot Addu,Industrial,30.44747,70.94728,Illustrative location
+P39-4,Kot Addu,Background,30.4942,70.94284,Illustrative location
+P40-1,Wazirabad,Urban,32.41602,74.10932,Illustrative location
+P40-2,Wazirabad,Traffic,32.46196,74.14908,Illustrative location
+P40-3,Wazirabad,Industrial,32.41026,74.14966,Illustrative location
+P40-4,Wazirabad,Background,32.45265,74.14464,Illustrative location
+P41-1,Taunsa,Urban,30.67678,70.67508,Illustrative location
+P41-2,Taunsa,Traffic,30.69191,70.68308,Illustrative location
+P41-3,Taunsa,Industrial,30.68345,70.67224,Illustrative location
+P41-4,Taunsa,Background,30.69977,70.63309,Illustrative location
